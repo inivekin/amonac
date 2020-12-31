@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="120.05186mm"
+   height="226.9138mm"
+   viewBox="0 0 120.05186 226.9138"
    version="1.1"
    id="svg963"
    inkscape:version="1.0.1 (unknown)"
@@ -24,17 +24,21 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.8275987"
-     inkscape:cx="355.38849"
-     inkscape:cy="556.42439"
+     inkscape:cx="201.41847"
+     inkscape:cy="470.55712"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="2158"
+     inkscape:window-width="1078"
      inkscape:window-height="1416"
-     inkscape:window-x="0"
+     inkscape:window-x="1080"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata960">
     <rdf:RDF>
@@ -50,7 +54,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-40.737901,-22.719048)">
     <path
        style="fill:#1d1f21;stroke-width:0.264999;paint-order:stroke markers fill"
        id="path1566"
