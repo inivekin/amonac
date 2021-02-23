@@ -851,23 +851,23 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#1d1f21"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2991614"
-     inkscape:cx="601.97453"
-     inkscape:cy="5406.9399"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="417.30509"
+     inkscape:cy="6308.7742"
      inkscape:document-units="mm"
-     inkscape:current-layer="g11958"
+     inkscape:current-layer="g12826"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="2158"
+     inkscape:window-width="2558"
      inkscape:window-height="1415"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      showguides="false"
      fit-margin-top="0"
      fit-margin-left="-0.5"
@@ -1066,61 +1066,62 @@
       <g
          id="g8028-0"
          inkscape:label="stars"
-         transform="translate(7.0555438,226.01422)">
+         transform="translate(7.0555438,226.01422)"
+         style="fill:#373b41;fill-opacity:1">
         <path
-           style="fill:#1d1f21;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#373b41;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 216.81359,365.78191 c -1.32293,-1.32291 -2.64583,-1.32291 -3.96875,0 0,1.32292 0,2.64584 1.32292,2.64584 1.32291,0 2.64582,0 2.64583,-2.64584 z"
            id="path3997-6"
            sodipodi:nodetypes="cccc" />
         <path
-           style="fill:#1d1f21;fill-opacity:1;stroke:none;stroke-width:0.128698px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#373b41;fill-opacity:1;stroke:none;stroke-width:0.128698px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 177.04518,359.81392 c -0.66777,-0.6201 -1.33553,-0.6201 -2.00329,0 0,0.62009 0,1.24019 0.66776,1.24019 0.66776,0 1.33552,0 1.33553,-1.24019 z"
            id="path3997-2-5"
            sodipodi:nodetypes="cccc" />
         <path
-           style="fill:#1d1f21;fill-opacity:1;stroke:none;stroke-width:0.128698px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#373b41;fill-opacity:1;stroke:none;stroke-width:0.128698px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 200.74526,372.50005 c -0.66777,-0.62011 -1.33553,-0.62011 -2.00329,0 0,0.62009 0,1.24019 0.66776,1.24019 0.66776,0 1.33552,0 1.33553,-1.24019 z"
            id="path3997-2-3-58"
            sodipodi:nodetypes="cccc" />
         <path
-           style="fill:#1d1f21;fill-opacity:1;stroke:none;stroke-width:0.128698px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#373b41;fill-opacity:1;stroke:none;stroke-width:0.128698px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 120.10799,366.656 c -0.66777,-0.62011 -1.33553,-0.62011 -2.00329,0 0,0.62009 0,1.24019 0.66776,1.24019 0.66776,0 1.33552,0 1.33553,-1.24019 z"
            id="path3997-2-38-0"
            sodipodi:nodetypes="cccc" />
         <path
-           style="fill:#1d1f21;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#373b41;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 157.04919,370.68177 c -1.32293,1.32291 -2.64583,1.32291 -3.96875,0 0,-1.32292 0,-2.64584 1.32292,-2.64584 1.32291,0 2.64582,0 2.64583,2.64584 z"
            id="path3997-16-4"
            sodipodi:nodetypes="cccc"
            inkscape:transform-center-x="0.61733597"
            inkscape:transform-center-y="0.16251567" />
         <path
-           style="fill:#1d1f21;fill-opacity:1;stroke:none;stroke-width:0.128698px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#373b41;fill-opacity:1;stroke:none;stroke-width:0.128698px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 155.63083,383.30116 c -0.66777,0.62011 -1.33553,0.62011 -2.00329,0 0,-0.62009 0,-1.24019 0.66776,-1.24019 0.66776,0 1.33552,0 1.33553,1.24019 z"
            id="path3997-2-2-0"
            sodipodi:nodetypes="cccc" />
         <path
-           style="fill:#1d1f21;fill-opacity:1;stroke:none;stroke-width:0.128698px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#373b41;fill-opacity:1;stroke:none;stroke-width:0.128698px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 179.33091,370.61503 c -0.66777,0.62011 -1.33553,0.62011 -2.00329,0 0,-0.62009 0,-1.24019 0.66776,-1.24019 0.66776,0 1.33552,0 1.33553,1.24019 z"
            id="path3997-2-3-1-8"
            sodipodi:nodetypes="cccc" />
         <path
-           style="fill:#1d1f21;fill-opacity:1;stroke:none;stroke-width:0.128698px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#373b41;fill-opacity:1;stroke:none;stroke-width:0.128698px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 98.693655,376.45908 c -0.66779,0.62011 -1.33554,0.62011 -2.0033,0 0,-0.62009 0,-1.24019 0.66776,-1.24019 0.66775,0 1.33551,0 1.33554,1.24019 z"
            id="path3997-2-38-9-2"
            sodipodi:nodetypes="cccc" />
         <path
-           style="fill:#1d1f21;fill-opacity:1;stroke:none;stroke-width:0.128698px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#373b41;fill-opacity:1;stroke:none;stroke-width:0.128698px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 95.367845,449.69195 c 0.66777,-0.62011 1.33553,-0.62011 2.00329,0 0,0.62009 0,1.24019 -0.66776,1.24019 -0.66776,0 -1.33552,0 -1.33553,-1.24019 z"
            id="path3997-2-3-8-05"
            sodipodi:nodetypes="cccc" />
         <path
-           style="fill:#1d1f21;fill-opacity:1;stroke:none;stroke-width:0.152806px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#373b41;fill-opacity:1;stroke:none;stroke-width:0.152806px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 240.79249,386.83344 c -0.67944,-0.85918 -1.35887,-0.85918 -2.0383,0 0,0.85916 0,1.71832 0.67943,1.71832 0.67943,0 1.35886,0 1.35887,-1.71832 z"
            id="path3997-2-3-0-3"
            sodipodi:nodetypes="cccc" />
         <path
-           style="fill:#1d1f21;fill-opacity:1;stroke:none;stroke-width:0.128698px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#373b41;fill-opacity:1;stroke:none;stroke-width:0.128698px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 120.21932,440.25905 c 0.66777,-0.62011 1.33553,-0.62011 2.00329,0 0,0.62009 0,1.24019 -0.66776,1.24019 -0.66776,0 -1.33552,0 -1.33553,-1.24019 z"
            id="path3997-2-3-8-0-6"
            sodipodi:nodetypes="cccc" />
@@ -1358,7 +1359,7 @@
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:iosevka;fill:#1d1f21;fill-opacity:1">1d</tspan></tspan></text>
       </g>
       <image
-         sodipodi:absref="/home/inivekin/art/amonac/0/spaceman_parachute.svg"
+         sodipodi:absref="/home/inivekin/code/amonac/0/spaceman_parachute.svg"
          xlink:href="0/spaceman_parachute.svg"
          inkscape:label="parachute"
          transform="rotate(23.146118)"
@@ -1370,7 +1371,7 @@
          inkscape:svg-dpi="96"
          preserveAspectRatio="none" />
       <image
-         sodipodi:absref="/home/inivekin/art/amonac/0/spaceman-and-universe.svg"
+         sodipodi:absref="/home/inivekin/code/amonac/0/spaceman-and-universe.svg"
          xlink:href="0/spaceman-and-universe.svg"
          inkscape:label="spaceman-and-universe"
          y="594.46191"
@@ -1388,7 +1389,7 @@
        inkscape:label="0/28-0/31"
        style="display:inline">
       <image
-         sodipodi:absref="/home/inivekin/art/amonac/0/upper-vacancies.svg"
+         sodipodi:absref="/home/inivekin/code/amonac/0/upper-vacancies.svg"
          xlink:href="0/upper-vacancies.svg"
          inkscape:label="upper-vacancies"
          y="725.00238"
@@ -1398,7 +1399,7 @@
          width="321.61234"
          inkscape:svg-dpi="96"
          preserveAspectRatio="none"
-         style="fill:#e0e0e0;fill-opacity:1" />
+         style="display:inline;fill:#e0e0e0;fill-opacity:1" />
       <rect
          style="mix-blend-mode:normal;fill:#1d1f21;fill-opacity:1;stroke-width:0.248738;paint-order:stroke markers fill"
          id="rect7215"
@@ -1598,7 +1599,7 @@
       <text
          xml:space="preserve"
          id="text4143"
-         style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4145);fill:#000000;fill-opacity:1;stroke:none;"
+         style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4145);fill:#1d1f21;fill-opacity:1;stroke:none;"
          x="0"
          y="0"
          transform="translate(-46.731937,52.247949)"
@@ -1607,51 +1608,52 @@
            x="20.664062"
            y="300.70317"><tspan
              dx="0 0 0 0 0 0 0 15.383858 0 0 0 15.383858 0 0 0 0 0 0 15.383862"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:iosevka;-inkscape-font-specification:iosevka;text-align:justify;text-anchor:start">Hidden was broken asceticism
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:iosevka;-inkscape-font-specification:iosevka;text-align:justify;text-anchor:start;fill:#1d1f21;fill-opacity:1">Hidden was broken asceticism
 </tspan></tspan><tspan
            x="20.664062"
            y="306.08727"><tspan
              dx="0 0 0 0 0 0 0 3.3036761 0 0 0 0 0 0 0 0 0 3.3036771 0 0 0 0 0 3.3036771 0 0 0 0 0 0 0 3.3036771 0 0 0 0 3.3036771"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:iosevka;-inkscape-font-specification:iosevka;text-align:justify;text-anchor:start">behind unsettled snowy mounds, like graves
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:iosevka;-inkscape-font-specification:iosevka;text-align:justify;text-anchor:start;fill:#1d1f21;fill-opacity:1">behind unsettled snowy mounds, like graves
 </tspan></tspan><tspan
            x="20.664062"
            y="311.47136"><tspan
              dx="0 0 0 3.8113923 0 0 0 3.8113923 0 0 0 0 0 0 0 0 3.8113942 0 0 0 0 0 0 0 3.8113942 0 0 0 0 3.811398 0 0 0 0 0 3.8113904"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:iosevka;-inkscape-font-specification:iosevka;text-align:justify;text-anchor:start">of the thousand summers that never came
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:iosevka;-inkscape-font-specification:iosevka;text-align:justify;text-anchor:start;fill:#1d1f21;fill-opacity:1">of the thousand summers that never came
 </tspan></tspan><tspan
            x="20.664062"
            y="316.85545"><tspan
              dx="0 0 0 4.9970021 0 0 0 4.9970021 0 0 0 0 0 0 0 0 0 0 4.9970021 0 0 4.9969983 0 0 0 4.9969983"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:iosevka;-inkscape-font-specification:iosevka;text-align:justify;text-anchor:start">to the night-side of the Ever-Sunward.
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:iosevka;-inkscape-font-specification:iosevka;text-align:justify;text-anchor:start;fill:#1d1f21;fill-opacity:1">to the night-side of the Ever-Sunward.
 </tspan></tspan><tspan
            x="20.664062"
            y="322.23955"><tspan
              dx="0 0 0 0 0 0 0 0 0 0 4.9970021 0 0 0 0 0 0 4.9970021 0 0 0 0 0 4.9970021 0 4.9969983 0 0 0 0 0 0 0 0 4.9969983"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:iosevka;-inkscape-font-specification:iosevka;text-align:justify;text-anchor:start">Spaceman, having taken a mourning knee
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:iosevka;-inkscape-font-specification:iosevka;text-align:justify;text-anchor:start;fill:#1d1f21;fill-opacity:1">Spaceman, having taken a mourning knee
 </tspan></tspan><tspan
            x="20.664062"
            y="327.62364"><tspan
              dx="0 0 0 2.662149 0 0 2.662149 0 0 2.662148 0 0 0 0 0 2.662148 0 0 0 0 0 2.662148 0 0 2.662148 0 0 0 0 0 0 0 2.6621518"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:iosevka;-inkscape-font-specification:iosevka;text-align:justify;text-anchor:start">so as to bring fight to pulling parachute
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:iosevka;-inkscape-font-specification:iosevka;text-align:justify;text-anchor:start;fill:#1d1f21;fill-opacity:1">so as to bring fight to pulling parachute
 </tspan></tspan><tspan
            x="20.664062"
            y="333.00774"><tspan
              dx="0 0 0 0 0 0.28363085 0 0 0 0 0 0 0 0.28363085 0 0 0 0.28363085 0 0 0 0 0 0 0 0 0 0 0.28363085 0 0 0 0 0 0 0 0.28362703 0 0 0 0 0 0 0 0.28363466"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:iosevka;-inkscape-font-specification:iosevka;text-align:justify;text-anchor:start">that follows the light-side sourced one-way wind,
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:iosevka;-inkscape-font-specification:iosevka;text-align:justify;text-anchor:start;fill:#1d1f21;fill-opacity:1">that follows the light-side sourced one-way wind,
 </tspan></tspan><tspan
            x="20.664062"
            y="338.39183"><tspan
              dx="0 0 0 0 0 0 0 0.38184404 0 0 0 0.38184404 0 0 0 0.38184595 0 0 0.38184404 0 0 0 0 0.38184404 0 0 0 0.38184404 0 0 0 0 0 0.38184786 0 0 0 0 0.38184023 0 0 0 0.38184023 0 0 0 0 0.38184023"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:iosevka;-inkscape-font-specification:iosevka;text-align:justify;text-anchor:start">sought the sun to keep the stars from his mind -
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:iosevka;-inkscape-font-specification:iosevka;text-align:justify;text-anchor:start;fill:#1d1f21;fill-opacity:1">sought the sun to keep the stars from his mind -
 </tspan></tspan><tspan
            x="20.664062"
            y="343.77593"><tspan
-             dx="0 0 0 1.8002162 0 0 0 0 0 0 1.8002172 0 0 1.8002172 0 0 0 0 1.8002172 0 0 1.8002133 0 0 0 1.8002133 0 0 0 0 0 0 0 1.800221 0 0 0 1.8002133"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:iosevka;-inkscape-font-specification:iosevka;text-align:justify;text-anchor:start">as should he look up and reflect the stars,
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:iosevka;-inkscape-font-specification:iosevka;text-align:justify;text-anchor:start;fill:#1d1f21;fill-opacity:1">for</tspan><tspan
+             dx="0 1.5356331 0 0 0 0 0 0 1.5356331 0 0 1.535635 0 0 0 0 1.535635 0 0 1.535635 0 0 0 1.535635 0 0 0 0 0 0 0 1.5356312 0 0 0 1.5356312"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:iosevka;-inkscape-font-specification:iosevka;text-align:justify;text-anchor:start;fill:#1d1f21;fill-opacity:1"> should he look up and reflect the stars,
 </tspan></tspan><tspan
            x="20.664062"
            y="349.16002"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:iosevka;-inkscape-font-specification:iosevka;text-align:justify;text-anchor:start">he'd do the same for the spaces between.&lt;========</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:iosevka;-inkscape-font-specification:iosevka;text-align:justify;text-anchor:start;fill:#1d1f21;fill-opacity:1">he'd do the same for the spaces between.&lt;========</tspan></tspan></text>
       <g
          id="g8028"
          inkscape:label="stars">
@@ -1767,7 +1769,7 @@
            sodipodi:nodetypes="cccc" />
       </g>
       <image
-         sodipodi:absref="/home/inivekin/art/amonac/0/stuck-in-the-zone.svg"
+         sodipodi:absref="/home/inivekin/code/amonac/0/stuck-in-the-zone.svg"
          xlink:href="0/stuck-in-the-zone.svg"
          preserveAspectRatio="none"
          inkscape:svg-dpi="96"
@@ -1778,7 +1780,7 @@
          y="348.957"
          inkscape:label="la-si" />
       <image
-         sodipodi:absref="/home/inivekin/art/amonac/0/spaceman-pulled-back.svg"
+         sodipodi:absref="/home/inivekin/code/amonac/0/spaceman-pulled-back.svg"
          xlink:href="0/spaceman-pulled-back.svg"
          preserveAspectRatio="none"
          inkscape:svg-dpi="96"
@@ -1962,15 +1964,15 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-           x="246.60358"
-           y="93.973228"
+           x="245.54526"
+           y="92.914894"
            id="text8525"
            inkscape:label="echo_fall-fool"
            class="text"><tspan
              sodipodi:role="line"
              id="tspan8523"
-             x="246.60358"
-             y="93.973228"
+             x="245.54526"
+             y="92.914894"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:iosevka;fill:#e0e0e0;fill-opacity:0.399944;stroke-width:0.264583">fool</tspan></text>
         <text
            xml:space="preserve"
@@ -2096,7 +2098,7 @@
              y="70.520195"><tspan
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;text-anchor:start;fill:#e0e0e0;fill-opacity:1">0/09</tspan></tspan></text>
         <image
-           sodipodi:absref="/home/inivekin/art/amonac/0/spaceman-falling.svg"
+           sodipodi:absref="/home/inivekin/code/amonac/0/spaceman-falling.svg"
            xlink:href="0/spaceman-falling.svg"
            preserveAspectRatio="none"
            inkscape:svg-dpi="96"
@@ -2139,7 +2141,7 @@
        y="2341.1663"
        inkscape:label="background" />
     <image
-       sodipodi:absref="/home/inivekin/art/amonac/1/centroid-hideout.svg"
+       sodipodi:absref="/home/inivekin/code/amonac/1/centroid-hideout.svg"
        xlink:href="1/centroid-hideout.svg"
        preserveAspectRatio="none"
        inkscape:svg-dpi="96"
@@ -2256,7 +2258,7 @@
        inkscape:label="1/00-1/13"
        transform="translate(0.14556887,1.418572)">
       <image
-         sodipodi:absref="/home/inivekin/art/amonac/1/door.svg"
+         sodipodi:absref="/home/inivekin/code/amonac/1/door.svg"
          xlink:href="1/door.svg"
          inkscape:label="door"
          y="1000.7402"
@@ -2495,7 +2497,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:iosevka;fill:#e0e0e0;fill-opacity:1">1/</tspan><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:iosevka;fill:#e0e0e0;fill-opacity:1">13</tspan></tspan></text>
       <image
-         sodipodi:absref="/home/inivekin/art/amonac/misc/under-bundled-wires-sat-simplified.svg"
+         sodipodi:absref="/home/inivekin/code/amonac/misc/under-bundled-wires-sat-simplified.svg"
          xlink:href="misc/under-bundled-wires-sat-simplified.svg"
          preserveAspectRatio="none"
          inkscape:svg-dpi="96"
@@ -2636,7 +2638,7 @@
          id="path11594"
          sodipodi:nodetypes="cccccc" />
       <image
-         sodipodi:absref="/home/inivekin/art/amonac/1/hbf.svg"
+         sodipodi:absref="/home/inivekin/code/amonac/1/hbf.svg"
          xlink:href="1/hbf.svg"
          inkscape:label="hbf"
          y="1327.6857"
@@ -2647,7 +2649,7 @@
          inkscape:svg-dpi="96"
          preserveAspectRatio="none" />
       <image
-         sodipodi:absref="/home/inivekin/art/amonac/1/woman-with-basket-of-wires.svg"
+         sodipodi:absref="/home/inivekin/code/amonac/1/woman-with-basket-of-wires.svg"
          xlink:href="1/woman-with-basket-of-wires.svg"
          transform="scale(-1,1)"
          inkscape:label="peacock"
@@ -3013,7 +3015,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:iosevka;fill:#1d1f21;fill-opacity:1">1/</tspan><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:iosevka;fill:#1d1f21;fill-opacity:1">27</tspan></tspan></text>
       <image
-         sodipodi:absref="/home/inivekin/art/amonac/1/ironics-trio.svg"
+         sodipodi:absref="/home/inivekin/code/amonac/1/ironics-trio.svg"
          xlink:href="1/ironics-trio.svg"
          transform="scale(-1,1)"
          y="1200.745"
@@ -3026,7 +3028,8 @@
     </g>
     <g
        id="g12826"
-       inkscape:label="1/3c-1/4f">
+       inkscape:label="1/3c-1/4f"
+       transform="translate(0.05340371,-7.2449799)">
       <rect
          style="display:inline;opacity:1;fill:#c5c8c6;fill-opacity:1;stroke:none;stroke-width:0.350459"
          id="rect979-0-0-7-59"
@@ -3035,18 +3038,6 @@
          x="-0.45343575"
          y="1503.3575"
          inkscape:label="backgroundsky" />
-      <image
-         sodipodi:absref="/home/inivekin/art/amonac/0/stuck-in-the-zone.svg"
-         xlink:href="0/stuck-in-the-zone.svg"
-         inkscape:label="la-si"
-         y="1501.8948"
-         x="0.016082764"
-         id="image8082-0"
-         height="222.39386"
-         width="321.55881"
-         inkscape:svg-dpi="96"
-         preserveAspectRatio="none"
-         style="display:inline" />
       <text
          xml:space="preserve"
          id="text4143-5-5-5-5-5-9-8-2-8"
@@ -3073,8 +3064,8 @@
 </tspan></tspan><tspan
            x="20.664062"
            y="316.85545"><tspan
-             dx="0 0 0 9.0161095 0 0 0 9.0161095 0 0 0 0 0 0 9.0161095 0 0 9.0161095 0 0 0 0 0 0 0 0 0 9.0161095"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:iosevka;-inkscape-font-specification:iosevka;text-align:justify;text-anchor:start;fill:#1d1f21;fill-opacity:1">On the border of ice-laden forest.
+             dx="0 0 9.4394398 0 0 0 9.4394398 0 0 0 0 0 0 9.4394379 0 0 9.4394379 0 0 0 0 0 0 0 0 0 9.4394417"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:iosevka;-inkscape-font-specification:iosevka;text-align:justify;text-anchor:start;fill:#1d1f21;fill-opacity:1">n the border of ice-laden forest.
 </tspan></tspan><tspan
            x="20.664062"
            y="322.23955"><tspan
@@ -3104,6 +3095,25 @@
            x="20.664062"
            y="349.16002"><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:iosevka;-inkscape-font-specification:iosevka;text-align:justify;text-anchor:start;fill:#1d1f21;fill-opacity:1">Rectangles rising to triangle form.&lt;===================</tspan></tspan></text>
+      <rect
+         style="fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:0.788891;paint-order:stroke markers fill"
+         id="rect12634-0-9-7"
+         width="322.02832"
+         height="186.41055"
+         x="-0.45343575"
+         y="-1830.1986"
+         transform="scale(1,-1)"
+         inkscape:label="backgroundground" />
+      <image
+         sodipodi:absref="/home/inivekin/code/amonac/misc/wheeled-cabin-background_1.svg"
+         xlink:href="misc/wheeled-cabin-background_1.svg"
+         y="1548.2914"
+         x="175.39197"
+         id="image12209"
+         height="99.511909"
+         width="108.11801"
+         inkscape:svg-dpi="96"
+         preserveAspectRatio="none" />
       <text
          xml:space="preserve"
          id="text3235-6-6-05-5-5-8-2-0"
@@ -3159,24 +3169,15 @@
            y="586.28343"><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:iosevka;fill:#1d1f21;fill-opacity:1">1/</tspan><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:iosevka;fill:#1d1f21;fill-opacity:1">45</tspan></tspan></text>
-      <rect
-         style="fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:0.594635;paint-order:stroke markers fill"
-         id="rect12634-0-9-7"
-         width="322.02832"
-         height="105.91008"
-         x="-0.45343575"
-         y="-1830.1986"
-         transform="scale(1,-1)"
-         inkscape:label="backgroundground" />
       <image
-         sodipodi:absref="/home/inivekin/art/amonac/1/hbf-leafy.svg"
+         sodipodi:absref="/home/inivekin/code/amonac/1/hbf-leafy.svg"
          xlink:href="1/hbf-leafy.svg"
          inkscape:label="forest"
-         y="1593.7969"
-         x="-0.98217773"
+         y="1579.5967"
+         x="-0.45343575"
          id="image12417"
-         height="229.15674"
-         width="322.01749"
+         height="250.60194"
+         width="322.52356"
          inkscape:svg-dpi="96"
          preserveAspectRatio="none" />
       <rect
@@ -3188,7 +3189,7 @@
          y="1650.9327"
          inkscape:label="text2background" />
       <image
-         sodipodi:absref="/home/inivekin/art/amonac/1/wheeled-cabin.svg"
+         sodipodi:absref="/home/inivekin/code/amonac/1/wheeled-cabin.svg"
          xlink:href="1/wheeled-cabin.svg"
          inkscape:label="wheeledcabin"
          y="1593.2399"
@@ -3885,7 +3886,7 @@
          d="m 196.12837,2003.5992 c 4.81791,-2.1932 4.42125,-2.4706 9.76765,-3.0553 1.75958,-0.1925 3.58162,0.1923 5.30623,-0.2063 2.22803,-0.515 4.18879,-1.8764 6.38969,-2.4972 3.88541,-1.096 10.53772,-1.5913 14.40359,-1.9902 2.55982,-0.3268 5.11862,-0.6617 7.67946,-0.9804 5.60633,-0.6977 10.02001,-1.3021 15.72409,-1.5295 10.82773,-0.4318 6.55497,0.232 17.97712,0.5568 4.46768,0.1271 8.9389,0.042 13.40834,0.064 10.42779,0.5889 12.36454,0.6669 22.16992,1.3272 2.07981,0.1401 4.25084,-0.1804 6.2372,0.4517 1.80343,0.574 3.0955,2.2032 4.78499,3.056 1.14113,0.576 2.42853,0.7987 3.64279,1.1981 9.62869,-3.6878 4.41333,-17.3049 -5.21536,-13.6171 v 0 c -0.006,1.0693 0.43251,2.2387 -0.0193,3.2078 -2.05999,4.4179 -4.8205,4.8327 -9.42329,5.2523 -9.68203,0.8828 -12.06932,-0.2979 -22.1093,-2.0537 -4.48006,0.1145 -8.95869,0.3247 -13.44017,0.3435 -11.42803,0.048 -7.22223,-0.5962 -18.04061,-0.1869 -2.80471,0.1062 -5.60609,0.3133 -8.40026,0.5784 -2.03476,0.1931 -13.12867,1.6804 -15.02276,1.931 -2.56518,0.2448 -5.12131,0.6185 -7.69553,0.7343 -4.92288,0.2216 -8.25048,-0.1341 -13.08363,-0.8235 -1.91505,-0.2731 -7.89954,-1.3008 -9.75289,-2.1124 -1.45109,-0.6354 -2.65829,-1.7237 -3.98743,-2.5856 -9.14822,-0.9196 -10.44868,12.0179 -1.30047,12.9375 z" />
     </g>
     <image
-       sodipodi:absref="/home/inivekin/art/amonac/1/fire.svg"
+       sodipodi:absref="/home/inivekin/code/amonac/1/fire.svg"
        xlink:href="1/fire.svg"
        y="-2185.4902"
        x="0.091737457"
@@ -3896,7 +3897,7 @@
        preserveAspectRatio="none"
        transform="scale(1,-1)" />
     <image
-       sodipodi:absref="/home/inivekin/art/amonac/1/fire.svg"
+       sodipodi:absref="/home/inivekin/code/amonac/1/fire.svg"
        xlink:href="1/fire.svg"
        preserveAspectRatio="none"
        inkscape:svg-dpi="96"
@@ -3906,14 +3907,14 @@
        x="105.80112"
        y="1976.5592" />
     <image
-       sodipodi:absref="/home/inivekin/art/amonac/1/southern-dog-shouts.svg"
+       sodipodi:absref="/home/inivekin/code/amonac/1/southern-dog-shouts.svg"
        xlink:href="1/southern-dog-shouts.svg"
        preserveAspectRatio="none"
        inkscape:svg-dpi="96"
-       width="113.33803"
+       width="101.2155"
        height="151.10104"
        id="image8054"
-       x="33.594849"
+       x="36.261322"
        y="2015.4099"
        style="fill:#1d1f21;fill-opacity:1" />
     <path
@@ -4137,7 +4138,7 @@
          d="m 0.30729813,2099.8579 c -0.93421492,1.1491 -3.47966373,5.7348 -1.17748006,2.1696 0.1192477,-0.5917 1.97213223,-1.6308 1.17748006,-2.1696 z" />
     </g>
     <image
-       sodipodi:absref="/home/inivekin/art/amonac/1/young-deer-horns-and-hands.svg"
+       sodipodi:absref="/home/inivekin/code/amonac/1/young-deer-horns-and-hands.svg"
        xlink:href="1/young-deer-horns-and-hands.svg"
        preserveAspectRatio="none"
        inkscape:svg-dpi="96"
