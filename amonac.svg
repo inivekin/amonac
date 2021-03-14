@@ -856,9 +856,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="451.60797"
-     inkscape:cy="6953.9454"
+     inkscape:zoom="1.2199716"
+     inkscape:cx="549.92615"
+     inkscape:cy="10774.175"
      inkscape:document-units="mm"
      inkscape:current-layer="layer7"
      inkscape:document-rotation="0"
@@ -881,7 +881,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1361,27 +1361,27 @@
       <image
          sodipodi:absref="/home/inivekin/code/amonac/0/spaceman_parachute.svg"
          xlink:href="0/spaceman_parachute.svg"
-         inkscape:label="parachute"
-         transform="rotate(23.146118)"
-         y="502.26837"
-         x="341.28885"
-         id="image6027"
-         height="61.355827"
-         width="141.74449"
+         preserveAspectRatio="none"
          inkscape:svg-dpi="96"
-         preserveAspectRatio="none" />
+         width="141.74449"
+         height="61.355827"
+         id="image6027"
+         x="341.28885"
+         y="502.26837"
+         transform="rotate(23.146118)"
+         inkscape:label="parachute" />
       <image
          sodipodi:absref="/home/inivekin/code/amonac/0/spaceman-and-universe.svg"
          xlink:href="0/spaceman-and-universe.svg"
-         inkscape:label="spaceman-and-universe"
-         y="594.46191"
-         x="169.31052"
-         id="image2102"
-         height="131.42448"
-         width="97.497597"
-         inkscape:svg-dpi="96"
+         style="image-rendering:auto"
          preserveAspectRatio="none"
-         style="image-rendering:auto" />
+         inkscape:svg-dpi="96"
+         width="97.497597"
+         height="131.42448"
+         id="image2102"
+         x="169.31052"
+         y="594.46191"
+         inkscape:label="spaceman-and-universe" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1391,15 +1391,15 @@
       <image
          sodipodi:absref="/home/inivekin/code/amonac/0/upper-vacancies.svg"
          xlink:href="0/upper-vacancies.svg"
-         inkscape:label="upper-vacancies"
-         y="725.00238"
-         x="-47.09129"
-         id="image6629"
-         height="221.10847"
-         width="321.61234"
-         inkscape:svg-dpi="96"
+         style="display:inline;fill:#e0e0e0;fill-opacity:1"
          preserveAspectRatio="none"
-         style="display:inline;fill:#e0e0e0;fill-opacity:1" />
+         inkscape:svg-dpi="96"
+         width="321.61234"
+         height="221.10847"
+         id="image6629"
+         x="-47.09129"
+         y="725.00238"
+         inkscape:label="upper-vacancies" />
       <rect
          style="mix-blend-mode:normal;fill:#1d1f21;fill-opacity:1;stroke-width:0.248738;paint-order:stroke markers fill"
          id="rect7215"
@@ -1771,25 +1771,25 @@
       <image
          sodipodi:absref="/home/inivekin/code/amonac/0/stuck-in-the-zone.svg"
          xlink:href="0/stuck-in-the-zone.svg"
-         preserveAspectRatio="none"
-         inkscape:svg-dpi="96"
-         width="321.55878"
-         height="222.39384"
-         id="image8082"
-         x="-47.154072"
+         inkscape:label="la-si"
          y="348.957"
-         inkscape:label="la-si" />
+         x="-47.154072"
+         id="image8082"
+         height="222.39384"
+         width="321.55878"
+         inkscape:svg-dpi="96"
+         preserveAspectRatio="none" />
       <image
          sodipodi:absref="/home/inivekin/code/amonac/0/spaceman-pulled-back.svg"
          xlink:href="0/spaceman-pulled-back.svg"
-         preserveAspectRatio="none"
-         inkscape:svg-dpi="96"
-         width="254"
-         height="142.875"
-         id="image8186"
-         x="-12.367409"
+         inkscape:label="spaceman-pulled-back"
          y="478.35977"
-         inkscape:label="spaceman-pulled-back" />
+         x="-12.367409"
+         id="image8186"
+         height="142.875"
+         width="254"
+         inkscape:svg-dpi="96"
+         preserveAspectRatio="none" />
     </g>
     <rect
        style="fill:#1d1f21;fill-opacity:1;stroke:none;stroke-width:0.229039"
@@ -2100,14 +2100,14 @@
         <image
            sodipodi:absref="/home/inivekin/code/amonac/0/spaceman-falling.svg"
            xlink:href="0/spaceman-falling.svg"
-           preserveAspectRatio="none"
-           inkscape:svg-dpi="96"
-           width="321.73334"
-           height="227.77451"
-           id="image7558"
-           x="-47.126472"
+           inkscape:label="spaceman-falling"
            y="121.1825"
-           inkscape:label="spaceman-falling" />
+           x="-47.126472"
+           id="image7558"
+           height="227.77451"
+           width="321.73334"
+           inkscape:svg-dpi="96"
+           preserveAspectRatio="none" />
       </g>
     </g>
   </g>
@@ -2143,13 +2143,13 @@
     <image
        sodipodi:absref="/home/inivekin/code/amonac/1/centroid-hideout.svg"
        xlink:href="1/centroid-hideout.svg"
-       preserveAspectRatio="none"
-       inkscape:svg-dpi="96"
-       width="174.10243"
-       height="215.01712"
-       id="image7918"
+       y="2166.511"
        x="147.9912"
-       y="2166.511" />
+       id="image7918"
+       height="215.01712"
+       width="174.10243"
+       inkscape:svg-dpi="96"
+       preserveAspectRatio="none" />
     <text
        xml:space="preserve"
        id="text4143-5-5-5-5-5-9-8-2-8-2-1"
@@ -2260,14 +2260,14 @@
       <image
          sodipodi:absref="/home/inivekin/code/amonac/1/door.svg"
          xlink:href="1/door.svg"
-         inkscape:label="door"
-         y="1000.7402"
-         x="-0.45342854"
-         id="image9857"
-         height="198.33591"
-         width="321.73334"
+         preserveAspectRatio="none"
          inkscape:svg-dpi="96"
-         preserveAspectRatio="none" />
+         width="321.73334"
+         height="198.33591"
+         id="image9857"
+         x="-0.45342854"
+         y="1000.7402"
+         inkscape:label="door" />
       <text
          xml:space="preserve"
          id="text4143-5-5-5-5"
@@ -2499,14 +2499,14 @@
       <image
          sodipodi:absref="/home/inivekin/code/amonac/misc/under-bundled-wires-sat-simplified.svg"
          xlink:href="misc/under-bundled-wires-sat-simplified.svg"
-         preserveAspectRatio="none"
-         inkscape:svg-dpi="96"
-         width="129.36755"
-         height="129.10027"
-         id="image8987"
-         x="-320.9819"
+         transform="scale(-1,1)"
          y="1068.7804"
-         transform="scale(-1,1)" />
+         x="-320.9819"
+         id="image8987"
+         height="129.10027"
+         width="129.36755"
+         inkscape:svg-dpi="96"
+         preserveAspectRatio="none" />
     </g>
     <g
        id="g10661"
@@ -2640,26 +2640,26 @@
       <image
          sodipodi:absref="/home/inivekin/code/amonac/1/hbf.svg"
          xlink:href="1/hbf.svg"
-         inkscape:label="hbf"
-         y="1327.6857"
-         x="-0.30786383"
-         id="image12282"
-         height="175.67178"
-         width="321.28976"
+         preserveAspectRatio="none"
          inkscape:svg-dpi="96"
-         preserveAspectRatio="none" />
+         width="321.28976"
+         height="175.67178"
+         id="image12282"
+         x="-0.30786383"
+         y="1327.6857"
+         inkscape:label="hbf" />
       <image
          sodipodi:absref="/home/inivekin/code/amonac/1/woman-with-basket-of-wires.svg"
          xlink:href="1/woman-with-basket-of-wires.svg"
-         transform="scale(-1,1)"
-         inkscape:label="peacock"
-         y="1332.6437"
-         x="-316.715"
-         id="image11184"
-         height="171.4209"
-         width="85.926346"
+         preserveAspectRatio="none"
          inkscape:svg-dpi="96"
-         preserveAspectRatio="none" />
+         width="85.926346"
+         height="171.4209"
+         id="image11184"
+         x="-316.715"
+         y="1332.6437"
+         inkscape:label="peacock"
+         transform="scale(-1,1)" />
       <rect
          style="fill:#c5c8c6;fill-opacity:1;stroke:none;stroke-width:0.269492;paint-order:stroke markers fill"
          id="rect12634"
@@ -3017,14 +3017,14 @@
       <image
          sodipodi:absref="/home/inivekin/code/amonac/1/ironics-trio.svg"
          xlink:href="1/ironics-trio.svg"
-         transform="scale(-1,1)"
-         y="1200.745"
-         x="-159.08437"
-         id="image11309"
-         height="127.19105"
-         width="150.02702"
+         preserveAspectRatio="none"
          inkscape:svg-dpi="96"
-         preserveAspectRatio="none" />
+         width="150.02702"
+         height="127.19105"
+         id="image11309"
+         x="-159.08437"
+         y="1200.745"
+         transform="scale(-1,1)" />
     </g>
     <g
        id="g12826"
@@ -3108,13 +3108,13 @@
       <image
          sodipodi:absref="/home/inivekin/code/amonac/misc/wheeled-cabin-background_1.svg"
          xlink:href="misc/wheeled-cabin-background_1.svg"
-         y="1548.2914"
-         x="175.39197"
-         id="image12209"
-         height="99.511909"
-         width="108.11801"
+         preserveAspectRatio="none"
          inkscape:svg-dpi="96"
-         preserveAspectRatio="none" />
+         width="108.11801"
+         height="99.511909"
+         id="image12209"
+         x="175.39197"
+         y="1548.2914" />
       <text
          xml:space="preserve"
          id="text3235-6-6-05-5-5-8-2-0"
@@ -3173,14 +3173,14 @@
       <image
          sodipodi:absref="/home/inivekin/code/amonac/1/hbf-leafy.svg"
          xlink:href="1/hbf-leafy.svg"
-         inkscape:label="forest"
-         y="1579.5967"
-         x="-0.45343575"
-         id="image12417"
-         height="250.60194"
-         width="322.52356"
+         preserveAspectRatio="none"
          inkscape:svg-dpi="96"
-         preserveAspectRatio="none" />
+         width="322.52356"
+         height="250.60194"
+         id="image12417"
+         x="-0.45343575"
+         y="1579.5967"
+         inkscape:label="forest" />
       <rect
          style="fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:0.277271;paint-order:stroke markers fill"
          id="rect12634-0-9"
@@ -3192,14 +3192,14 @@
       <image
          sodipodi:absref="/home/inivekin/code/amonac/1/wheeled-cabin.svg"
          xlink:href="1/wheeled-cabin.svg"
-         inkscape:label="wheeledcabin"
-         y="1593.2399"
-         x="144.2683"
-         id="image12102"
-         height="236.95866"
-         width="177.68855"
+         preserveAspectRatio="none"
          inkscape:svg-dpi="96"
-         preserveAspectRatio="none" />
+         width="177.68855"
+         height="236.95866"
+         id="image12102"
+         x="144.2683"
+         y="1593.2399"
+         inkscape:label="wheeledcabin" />
       <text
          xml:space="preserve"
          id="text3235-6-6-05-5-5-8-2-0-9"
@@ -3889,35 +3889,35 @@
     <image
        sodipodi:absref="/home/inivekin/code/amonac/1/fire.svg"
        xlink:href="1/fire.svg"
-       y="-2185.4902"
-       x="0.091737457"
-       id="image8518-6"
-       height="168.98473"
-       width="89.416161"
-       inkscape:svg-dpi="96"
+       transform="scale(1,-1)"
        preserveAspectRatio="none"
-       transform="scale(1,-1)" />
+       inkscape:svg-dpi="96"
+       width="89.416161"
+       height="168.98473"
+       id="image8518-6"
+       x="0.091737457"
+       y="-2185.4902" />
     <image
        sodipodi:absref="/home/inivekin/code/amonac/1/fire.svg"
        xlink:href="1/fire.svg"
-       preserveAspectRatio="none"
-       inkscape:svg-dpi="96"
-       width="89.416161"
-       height="168.98473"
-       id="image8518"
+       y="1976.5592"
        x="105.80112"
-       y="1976.5592" />
+       id="image8518"
+       height="168.98473"
+       width="89.416161"
+       inkscape:svg-dpi="96"
+       preserveAspectRatio="none" />
     <image
        sodipodi:absref="/home/inivekin/code/amonac/1/southern-dog-shouts.svg"
        xlink:href="1/southern-dog-shouts.svg"
-       preserveAspectRatio="none"
-       inkscape:svg-dpi="96"
-       width="101.2155"
-       height="151.10104"
-       id="image8054"
-       x="36.261322"
+       style="fill:#1d1f21;fill-opacity:1"
        y="2015.4099"
-       style="fill:#1d1f21;fill-opacity:1" />
+       x="36.261322"
+       id="image8054"
+       height="151.10104"
+       width="101.2155"
+       inkscape:svg-dpi="96"
+       preserveAspectRatio="none" />
     <path
        style="fill:#1d1f21;stroke-width:0.264999;paint-order:stroke markers fill"
        id="path6292"
@@ -4309,13 +4309,13 @@
     <image
        sodipodi:absref="/home/inivekin/code/amonac/1/determinist-forces.svg"
        xlink:href="1/determinist-forces.svg"
-       y="2600.7974"
-       x="-0.58622622"
-       id="image8805"
-       height="270.1972"
-       width="322.62164"
+       preserveAspectRatio="none"
        inkscape:svg-dpi="96"
-       preserveAspectRatio="none" />
+       width="322.62164"
+       height="270.1972"
+       id="image8805"
+       x="-0.58622622"
+       y="2600.7974" />
     <text
        xml:space="preserve"
        id="text3235-6-6-05-5-5-8-2-0-9-3-9-8-5-8-0-8-3"
@@ -4471,7 +4471,7 @@
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4145-6-6-0-7-1-2-7-1-5-0-8-6-0-1-3-0-8-0-8-1);fill:#ffffff;fill-opacity:1;stroke:none;"
        x="0"
        y="0"
-       transform="translate(14.053495,2572.1092)"
+       transform="translate(14.053495,2592.748)"
        inkscape:label="text2"
        class="text"><tspan
          x="20.664062"
@@ -4526,7 +4526,7 @@
        xml:space="preserve"
        id="text3235-6-6-05-5-5-8-2-0-9-3-9-8-5-8-0-8-3-2-9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;-inkscape-font-specification:iosevka;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3237-7-5-6-1-2-4-4-5-8-2-2-9-2-5-0-6-2-1-9);fill:#ffffff;fill-opacity:1;stroke:none;"
-       transform="translate(-158.05232,2334.9802)"
+       transform="translate(-158.05232,2355.619)"
        inkscape:label="nl2"
        class="text"><tspan
          x="178.37695"
@@ -4575,24 +4575,34 @@
     <image
        sodipodi:absref="/home/inivekin/code/amonac/1/southern-dog-celebrates.svg"
        xlink:href="1/southern-dog-celebrates.svg"
-       preserveAspectRatio="none"
-       inkscape:svg-dpi="96"
-       width="181.51178"
-       height="115.345"
-       id="image9263"
+       y="2458.2161"
        x="138.14517"
-       y="2458.2161" />
+       id="image9263"
+       height="115.345"
+       width="181.51178"
+       inkscape:svg-dpi="96"
+       preserveAspectRatio="none" />
     <image
        sodipodi:absref="/home/inivekin/code/amonac/1/young-deer-horns-and-hands.svg"
        xlink:href="1/young-deer-horns-and-hands.svg"
-       preserveAspectRatio="none"
-       inkscape:svg-dpi="96"
-       width="179.35191"
-       height="200.10995"
-       id="image12680"
-       x="-178.95187"
+       transform="scale(-1,1)"
        y="2341.1663"
-       transform="scale(-1,1)" />
+       x="-178.95187"
+       id="image12680"
+       height="200.10995"
+       width="179.35191"
+       inkscape:svg-dpi="96"
+       preserveAspectRatio="none" />
+    <image
+       sodipodi:absref="/home/inivekin/code/amonac/1/quiet-monk.svg"
+       xlink:href="1/quiet-monk.svg"
+       y="2834.0986"
+       x="147.71706"
+       id="image8845"
+       height="169.20448"
+       width="174.25246"
+       inkscape:svg-dpi="96"
+       preserveAspectRatio="none" />
   </g>
   <g
      inkscape:label="title"
