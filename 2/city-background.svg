@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="209.54214mm"
-   height="1573.9958mm"
-   viewBox="0 0 209.54214 1573.996"
+   width="191.21956mm"
+   height="741.95984mm"
+   viewBox="0 0 191.21955 741.95991"
    version="1.1"
    id="svg7608"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
@@ -18,10 +18,10 @@
      id="defs7602">
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 1425.496 : 1"
+       inkscape:vp_x="0 : 593.45987 : 1"
        inkscape:vp_y="0 : 1000.0001 : 0"
-       inkscape:vp_z="210.00001 : 1425.496 : 1"
-       inkscape:persp3d-origin="105 : 1375.996 : 1"
+       inkscape:vp_z="210 : 593.45987 : 1"
+       inkscape:persp3d-origin="105 : 543.95987 : 1"
        id="perspective8171" />
   </defs>
   <sodipodi:namedview
@@ -31,21 +31,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.90509668"
-     inkscape:cx="627.75891"
-     inkscape:cy="1814.7856"
+     inkscape:zoom="0.32"
+     inkscape:cx="342.71687"
+     inkscape:cy="1550.6177"
      inkscape:document-units="mm"
      inkscape:current-layer="g8271"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1278"
+     inkscape:window-width="851"
      inkscape:window-height="1415"
-     inkscape:window-x="1280"
+     inkscape:window-x="1707"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      fit-margin-top="0"
      fit-margin-left="0"
-     fit-margin-right="22.5"
+     fit-margin-right="-3"
      fit-margin-bottom="0"
      inkscape:snap-nodes="true" />
   <metadata
@@ -56,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -64,7 +64,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-153.11192,-24.377643)">
+     transform="translate(-171.31726,-36.261297)">
     <g
        sodipodi:type="inkscape:box3d"
        id="g8173"
