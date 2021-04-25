@@ -221,6 +221,18 @@
        width="111.17789"
        height="67.494499"
        id="rect41480" />
+    <rect
+       x="30.295895"
+       y="-85.040092"
+       width="111.17789"
+       height="67.494499"
+       id="rect983-7-1-6-7" />
+    <rect
+       x="30.295895"
+       y="-85.040092"
+       width="111.17789"
+       height="67.494499"
+       id="rect3181" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -229,9 +241,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="603.70682"
-     inkscape:cy="2957.0131"
+     inkscape:zoom="1"
+     inkscape:cx="584.3548"
+     inkscape:cy="3571.4614"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -240,9 +252,9 @@
      fit-margin-left="-1"
      fit-margin-right="-1"
      fit-margin-bottom="0"
-     inkscape:window-width="1278"
+     inkscape:window-width="2558"
      inkscape:window-height="1415"
-     inkscape:window-x="1280"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
@@ -272,6 +284,13 @@
        inkscape:label="background" />
     <rect
        style="display:inline;mix-blend-mode:normal;fill:#1d1f21;fill-opacity:1;stroke-width:0.264999;paint-order:stroke markers fill"
+       id="rect8523-1-5-3"
+       width="321.77148"
+       height="6.2865729"
+       x="28.503506"
+       y="829.84344" />
+    <rect
+       style="display:inline;mix-blend-mode:normal;fill:#1d1f21;fill-opacity:1;stroke-width:0.264999;paint-order:stroke markers fill"
        id="rect8523-1-5"
        width="321.77148"
        height="6.2865729"
@@ -298,67 +317,6 @@
        height="6.286572"
        x="28.841595"
        y="787.55554" />
-    <text
-       xml:space="preserve"
-       id="text4143-5-5-5"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4145-6-6-0);display:inline;fill:#1d1f21;fill-opacity:1;stroke:none;"
-       x="0"
-       y="0"
-       transform="translate(127.49702,486.09898)"
-       inkscape:label="text"
-       class="text"><tspan
-         x="20.664062"
-         y="300.70317"><tspan
-           dx="0 0 0 0 0 0 0 5.5963607 0 0 0 0 0 0 0 0 0 0 0 5.5963597 0 0 0 0 0 0 0 0 5.5963635 0 0 0 0 0 0 0 5.5963635 0 0 5.5963635"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#1d1f21;fill-opacity:1">During distracting flashing lights, it left
-</tspan></tspan><tspan
-         x="20.664062"
-         y="305.99483"><tspan
-           dx="0 0 0 0 0 0 6.4430223 0 0 0 6.4430242 0 0 0 0 0 6.4430242 0 0 0 6.443028 0 0 0 0 0 0 0 0 0 0 6.4430203"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#e0e0e0;fill-opacity:1">(Both the Empty and Spaceman's confidence
-</tspan></tspan><tspan
-         x="20.664062"
-         y="311.28648"><tspan
-           dx="0 0 0 7.2896867 0 0 0 7.2896848 0 0 0 0 0 0 0 0 0 0 0 0 7.2896848 0 0 0 0 7.2896848 0 0 0 0 0 0 0 7.2896848"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#1d1f21;fill-opacity:1">in his satisfaction with unknown chance
-</tspan></tspan><tspan
-         x="20.664062"
-         y="316.57814"><tspan
-           dx="0 0 0 0 7.7130189 0 0 0 7.7130189 0 0 0 0 0 0 0 0 0 0 0 0 7.713017 0 0 7.713017 0 0 0 0 0 0 7.713017"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e0e0e0;fill-opacity:1">and his proclamation of common sense).</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#1d1f21;fill-opacity:1">
-</tspan></tspan><tspan
-         x="20.664062"
-         y="321.8698"><tspan
-           dx="0 0 0 0 0 0 0 6.0196929 0 0 0 0 0 0 6.0196919 0 0 0 6.0196919 0 0 0 0 0 0 0 6.0196958 0 0 0 6.0196958"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#1d1f21;fill-opacity:1">Strobe lights for warning the unpredicted,
-</tspan></tspan><tspan
-         x="20.664062"
-         y="327.16145"><tspan
-           dx="0 0 0 0 0 10.170435 0 0 0 0 0 0 0 0 0 0 10.170437 0 0 0 0 0 0 10.170437 0 0 0 0 0 0 0 0 0 0 10.170437"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e0e0e0;fill-opacity:1">with continuous tracks propelling it,</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#1d1f21;fill-opacity:1">
-</tspan></tspan><tspan
-         x="20.664062"
-         y="332.45311"><tspan
-           dx="0 0 0 0 0 0 0 0 5.3691869 0 0 0 0 0 0 5.3691869 0 0 0 5.3691869 0 0 0 0 0 0 0 5.3691907 0 0 0 0 5.3691907 0 0 0 0 0 5.3691907"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#1d1f21;fill-opacity:1">carries forces and weapons that fight off
-</tspan></tspan><tspan
-         x="20.664062"
-         y="337.74477"><tspan
-           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 20.34087 0 0 0 0 0 0 0 0 0 0 0 20.34087"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e0e0e0;fill-opacity:1">nondeterministic, frightening things.</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#1d1f21;fill-opacity:1">
-</tspan></tspan><tspan
-         x="20.664062"
-         y="343.03642"><tspan
-           dx="0 0 0 0 0 1.4628005 0 0 0 1.4627995 0 0 0 0 0 0 0 1.4627995 0 0 1.4627995 0 0 0 1.4627995 0 0 0 0 0 0 1.4628034 0 0 1.4627957 0 0 0 0 0 0 1.4628034 0 0 1.4627957"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#1d1f21;fill-opacity:1">From the strings of the 'chute to 'cuffs on wrist,
-</tspan></tspan><tspan
-         x="20.664062"
-         y="348.32808"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e0e0e0;fill-opacity:1">News he brings must be muted till </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e0e0e0;fill-opacity:1">secure.&lt;==============</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text3235-6"
@@ -606,40 +564,40 @@
     <image
        sodipodi:absref="/home/inivekin/code/amonac/0/spaceman_parachute.svg"
        xlink:href="0/spaceman_parachute.svg"
-       preserveAspectRatio="none"
-       inkscape:svg-dpi="96"
-       width="141.74449"
-       height="61.355827"
-       id="image6027"
-       x="349.82498"
-       y="329.21872"
-       transform="rotate(23.146118)"
+       style="display:inline"
        inkscape:label="parachute"
-       style="display:inline" />
+       transform="rotate(23.146118)"
+       y="329.21872"
+       x="349.82498"
+       id="image6027"
+       height="61.355827"
+       width="141.74449"
+       inkscape:svg-dpi="96"
+       preserveAspectRatio="none" />
     <image
        sodipodi:absref="/home/inivekin/code/amonac/0/spaceman-and-universe.svg"
        xlink:href="0/spaceman-and-universe.svg"
-       style="display:inline;image-rendering:auto"
-       preserveAspectRatio="none"
-       inkscape:svg-dpi="96"
-       width="97.497597"
-       height="131.42448"
-       id="image2102"
-       x="245.18146"
+       inkscape:label="spaceman-and-universe"
        y="438.6972"
-       inkscape:label="spaceman-and-universe" />
+       x="245.18146"
+       id="image2102"
+       height="131.42448"
+       width="97.497597"
+       inkscape:svg-dpi="96"
+       preserveAspectRatio="none"
+       style="display:inline;image-rendering:auto" />
     <image
        sodipodi:absref="/home/inivekin/code/amonac/0/upper-vacancies.svg"
        xlink:href="0/upper-vacancies.svg"
-       style="display:inline;fill:#e0e0e0;fill-opacity:1"
-       preserveAspectRatio="none"
-       inkscape:svg-dpi="96"
-       width="321.61234"
-       height="221.10847"
-       id="image6629"
-       x="28.779644"
+       inkscape:label="upper-vacancies"
        y="569.23767"
-       inkscape:label="upper-vacancies" />
+       x="28.779644"
+       id="image6629"
+       height="221.10847"
+       width="321.61234"
+       inkscape:svg-dpi="96"
+       preserveAspectRatio="none"
+       style="display:inline;fill:#e0e0e0;fill-opacity:1" />
     <g
        id="g41643">
       <rect
@@ -953,27 +911,27 @@
     <image
        sodipodi:absref="/home/inivekin/code/amonac/0/stuck-in-the-zone.svg"
        xlink:href="0/stuck-in-the-zone.svg"
-       inkscape:label="la-si"
-       y="193.19228"
-       x="28.716862"
-       id="image8082"
-       height="222.39384"
-       width="321.55878"
-       inkscape:svg-dpi="96"
+       style="display:inline"
        preserveAspectRatio="none"
-       style="display:inline" />
+       inkscape:svg-dpi="96"
+       width="321.55878"
+       height="222.39384"
+       id="image8082"
+       x="28.716862"
+       y="193.19228"
+       inkscape:label="la-si" />
     <image
        sodipodi:absref="/home/inivekin/code/amonac/0/spaceman-pulled-back.svg"
        xlink:href="0/spaceman-pulled-back.svg"
-       inkscape:label="spaceman-pulled-back"
-       y="322.59506"
-       x="63.503525"
-       id="image8186"
-       height="142.875"
-       width="254"
-       inkscape:svg-dpi="96"
+       style="display:inline"
        preserveAspectRatio="none"
-       style="display:inline" />
+       inkscape:svg-dpi="96"
+       width="254"
+       height="142.875"
+       id="image8186"
+       x="63.503525"
+       y="322.59506"
+       inkscape:label="spaceman-pulled-back" />
     <rect
        style="display:inline;fill:#1d1f21;fill-opacity:1;stroke:none;stroke-width:0.229039"
        id="rect979"
@@ -1284,14 +1242,14 @@
         <image
            sodipodi:absref="/home/inivekin/code/amonac/0/spaceman-falling.svg"
            xlink:href="0/spaceman-falling.svg"
-           inkscape:label="spaceman-falling"
-           y="121.1825"
-           x="-47.126472"
-           id="image7558"
-           height="227.77451"
-           width="321.73334"
+           preserveAspectRatio="none"
            inkscape:svg-dpi="96"
-           preserveAspectRatio="none" />
+           width="321.73334"
+           height="227.77451"
+           id="image7558"
+           x="-47.126472"
+           y="121.1825"
+           inkscape:label="spaceman-falling" />
       </g>
     </g>
     <text
@@ -1504,6 +1462,78 @@
          y="-27.362136"><tspan
            dx="0 0 0 0 0 4.7716784 0 0 0 4.7716775 0 0 0 0 0 0 0 0 4.7716794 0 0 0 0 0 0 4.7716794 0 0 0 4.7716794 0 0 4.7716794"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1f21;fill-opacity:1">None can remember what's yet to happen&quot;
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-21.978042"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1f21;fill-opacity:1">
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text981-7-0-3-8"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect983-7-1-6-7);display:inline;fill:#1d1f21;fill-opacity:1;stroke:none;"
+       x="0"
+       y="0"
+       transform="translate(113.95185,862.49628)"
+       inkscape:label="text"
+       class="text"><tspan
+         x="30.294922"
+         y="-81.203079"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1f21;fill-opacity:1">
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-75.818985"><tspan
+           dx="0 0 0 0 0 0 0 4.0326896 0 0 0 0 0 0 0 0 0 0 0 4.0326886 0 0 0 0 0 0 0 0 4.0326886 0 0 0 0 0 0 0 4.0326886 0 0 4.0326886"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1f21;fill-opacity:1">During distracting flashing lights, it left
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-70.43489"><tspan
+           dx="0 0 0 0 0 0 4.8793511 0 0 0 4.879353 0 0 0 0 0 4.8793492 0 0 0 4.879353 0 0 0 0 0 0 0 0 0 0 4.8793454"
+           style="fill:#e0e0e0">(Both the Empty and Spaceman's confidence</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1f21;fill-opacity:1">
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-65.050796"><tspan
+           dx="0 0 0 5.7260146 0 0 0 5.7260137 0 0 0 0 0 0 0 0 0 0 0 0 5.7260137 0 0 0 0 5.7260175 0 0 0 0 0 0 0 5.7260098"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1f21;fill-opacity:1">in his satisfaction with unknown chance
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-59.666702"><tspan
+           dx="0 0 0 0 6.1493459 0 0 0 6.1493459 0 0 0 0 0 0 0 0 0 0 0 0 6.1493459 0 0 6.1493497 0 0 0 0 0 0 6.1493497"
+           style="fill:#e0e0e0">and his proclamation of common sense).</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1f21;fill-opacity:1">
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-54.282608"><tspan
+           dx="0 0 0 0 0 0 0 4.4560199 0 0 0 0 0 0 4.4560189 0 0 0 4.4560208 0 0 0 0 0 0 0 4.4560208 0 0 0 4.4560208"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1f21;fill-opacity:1">Strobe lights for warning the unpredicted,
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-48.898513"><tspan
+           dx="0 0 0 0 0 8.2158451 0 0 0 0 0 0 0 0 0 0 8.215847 0 0 0 0 0 0 8.2158432 0 0 0 0 0 0 0 0 0 0 8.215847"
+           style="fill:#e0e0e0">with continuous tracks propelling it,</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1f21;fill-opacity:1">
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-43.514419"><tspan
+           dx="0 0 0 0 0 0 0 0 4.0661263 0 0 0 0 0 0 4.0661244 0 0 0 4.0661283 0 0 0 0 0 0 0 4.0661283 0 0 0 0 4.0661283 0 0 0 0 0 4.0661283"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1f21;fill-opacity:1">carries forces and weapons that fight off
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-38.130325"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 16.43169 0 0 0 0 0 0 0 0 0 0 0 16.43169"
+           style="fill:#e0e0e0">nondeterministic, frightening things.</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1f21;fill-opacity:1">
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-32.746231"><tspan
+           dx="0 0 0 0 0 0.5940938 0 0 0 0.59409571 0 0 0 0 0 0 0 0.5940938 0 0 0.5940938 0 0 0 0.5940938 0 0 0 0 0 0 0.59408998 0 0 0.59409761 0 0 0 0 0 0 0.59409761 0 0 0.59408998"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1f21;fill-opacity:1">From the strings of the 'chute to 'cuffs on wrist,
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-27.362136"><tspan
+           dx="0 0 0 0 0 3.4852509 0 0 3.4852509 0 0 0 0 0 0 3.485249 0 0 0 0 3.485249 0 0 3.485249 0 0 0 0 0 3.4852567 0 0 0 0 3.4852567"
+           style="fill:#e0e0e0">News he brings must be muted till secure.</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1f21;fill-opacity:1">
 </tspan></tspan><tspan
          x="30.294922"
          y="-21.978042"><tspan
