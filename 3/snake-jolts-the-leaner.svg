@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="803.3446mm"
+   height="778.60077mm"
+   viewBox="0 0 803.34459 778.60077"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="snake-jolts-the-leaner.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#1d1f21"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="1501.1514"
+     inkscape:cy="2350.4787"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="2558"
+     inkscape:window-height="1415"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(174.2153,4.9850135)">
+    <image
+       sodipodi:absref="/home/inivekin/code/amonac/3/leaner.svg"
+       xlink:href="leaner.svg"
+       y="-4.7509894"
+       x="-48.824818"
+       id="image1770"
+       height="383.91003"
+       width="286.17273"
+       inkscape:svg-dpi="96"
+       preserveAspectRatio="none" />
+    <image
+       sodipodi:absref="/home/inivekin/code/amonac/3/snake-leaning-in-on-leaner.svg"
+       xlink:href="snake-leaning-in-on-leaner.svg"
+       y="124.84473"
+       x="-178.69829"
+       id="image1508"
+       height="213.27541"
+       width="179.71431"
+       inkscape:svg-dpi="96"
+       preserveAspectRatio="none" />
+    <image
+       sodipodi:absref="/home/inivekin/code/amonac/3/leaner.svg"
+       xlink:href="leaner.svg"
+       y="-3.3727579"
+       x="354.39783"
+       id="image1770-2"
+       height="385.32037"
+       width="287.22403"
+       inkscape:svg-dpi="96"
+       preserveAspectRatio="none" />
+    <image
+       sodipodi:absref="/home/inivekin/code/amonac/3/snake-leaning-in-on-leaner-2.svg"
+       xlink:href="snake-leaning-in-on-leaner-2.svg"
+       y="121.39894"
+       x="233.86858"
+       id="image4120"
+       height="218.32053"
+       width="130.05153"
+       inkscape:svg-dpi="96"
+       preserveAspectRatio="none" />
+    <image
+       sodipodi:absref="/home/inivekin/code/amonac/3/leaner.svg"
+       xlink:href="leaner.svg"
+       y="337.39203"
+       x="-175.33839"
+       id="image1770-2-2"
+       height="555.86951"
+       width="414.35406"
+       inkscape:svg-dpi="96"
+       preserveAspectRatio="none" />
+    <path
+       style="fill:#282a2e;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -28.937967,658.41387 c -23.885715,-10.19347 -54.888262,19.06074 -64.234864,3.04245 -9.346609,-16.0183 -19.517919,-42.25611 -40.715729,-52.31956 -21.19781,-10.06346 -24.28277,-2.00224 -34.14861,11.70172 -9.86584,13.70396 41.50981,57.10418 35.40094,60.95273 -6.10886,3.84855 -25.10748,10.50549 -11.27086,13.46994 13.83661,2.96442 27.52047,-23.06534 39.21899,-10.84358 11.698528,12.22177 -9.10223,21.34907 3.39043,26.00375 12.492666,4.65466 49.63468,-23.35135 50.825909,-12.09175 1.191228,11.25961 15.058413,29.72226 2.779543,36.11917 -12.278868,6.39691 -11.576339,18.43673 -1.893756,16.95448 9.682581,-1.48228 37.447421,-81.00163 20.648007,-92.98935 z"
+       id="path19345"
+       sodipodi:nodetypes="cssssssssssc" />
+    <image
+       sodipodi:absref="/home/inivekin/code/amonac/3/snake-leaning-in-on-leaner-3.svg"
+       xlink:href="snake-leaning-in-on-leaner-3.svg"
+       y="306.63062"
+       x="-198.15459"
+       id="image5679"
+       height="531.78168"
+       width="376.00723"
+       inkscape:svg-dpi="96"
+       preserveAspectRatio="none" />
+    <image
+       sodipodi:absref="/home/inivekin/code/amonac/3/leaner-falls.svg"
+       xlink:href="leaner-falls.svg"
+       y="339.71948"
+       x="233.86858"
+       id="image17120"
+       height="551.67542"
+       width="409.43616"
+       inkscape:svg-dpi="96"
+       preserveAspectRatio="none" />
+  </g>
+</svg>
