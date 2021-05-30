@@ -8,15 +8,21 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="322.07379mm"
-   height="1007.5955mm"
-   viewBox="0 0 322.07379 1007.5955"
+   width="320.27744mm"
+   height="992.44604mm"
+   viewBox="0 0 320.27743 992.44603"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="0.svg">
   <defs
      id="defs2">
+    <rect
+       x="146.3026"
+       y="787.02866"
+       width="18.045652"
+       height="16.418743"
+       id="rect86329" />
     <rect
        x="20.663755"
        y="296.86459"
@@ -189,7 +195,7 @@
        x="30.295895"
        y="-85.040092"
        width="111.17789"
-       height="67.494502"
+       height="67.494499"
        id="rect983-7-1" />
     <rect
        x="30.295895"
@@ -241,9 +247,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="584.3548"
-     inkscape:cy="3571.4614"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="1051.4655"
+     inkscape:cy="3709.9218"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -252,9 +258,9 @@
      fit-margin-left="-1"
      fit-margin-right="-1"
      fit-margin-bottom="0"
-     inkscape:window-width="2558"
+     inkscape:window-width="851"
      inkscape:window-height="1415"
-     inkscape:window-x="0"
+     inkscape:window-x="854"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
@@ -273,13 +279,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-28.707157,156.05965)">
+     transform="translate(-29.503506,156.05965)">
     <rect
-       style="display:inline;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:0.187281"
+       style="display:inline;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:0.184442"
        id="rect979-0-0-4"
-       width="321.78934"
-       height="93.234077"
-       x="28.763638"
+       width="321.48688"
+       height="75.806442"
+       x="28.690723"
        y="758.30176"
        inkscape:label="background" />
     <rect
@@ -320,54 +326,56 @@
     <text
        xml:space="preserve"
        id="text3235-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3237-7);display:inline;fill:#1d1f21;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3237-7);display:inline;fill:#1d1f21;fill-opacity:1;stroke:none;"
        transform="translate(-49.053826,248.41483)"
        inkscape:label="nl"
-       class="text"><tspan
+       class="text"
+       x="0"
+       y="0"><tspan
          x="178.37695"
          y="538.65825"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect3237-7)">0/32
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect3237-7)">0/32
 </tspan></tspan><tspan
          x="178.37695"
          y="543.94994"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e0e0e0;fill-opacity:1">0/33</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect3237-7)">
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#e0e0e0;fill-opacity:1">0/33</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect3237-7)">
 </tspan></tspan><tspan
          x="178.37695"
          y="549.24162"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect3237-7)">0/34
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect3237-7)">0/34
 </tspan></tspan><tspan
          x="178.37695"
          y="554.53331"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e0e0e0;fill-opacity:1">0/</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e0e0e0;fill-opacity:1">35</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect3237-7)">
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#e0e0e0;fill-opacity:1">0/</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#e0e0e0;fill-opacity:1">35</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect3237-7)">
 </tspan></tspan><tspan
          x="178.37695"
          y="559.825"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect3237-7)">0/36
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect3237-7)">0/36
 </tspan></tspan><tspan
          x="178.37695"
          y="565.11668"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e0e0e0;fill-opacity:1">0/37</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect3237-7)">
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#e0e0e0;fill-opacity:1">0/37</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect3237-7)">
 </tspan></tspan><tspan
          x="178.37695"
          y="570.40837"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect3237-7)">0/38
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect3237-7)">0/38
 </tspan></tspan><tspan
          x="178.37695"
          y="575.70006"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e0e0e0;fill-opacity:1">0/39</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect3237-7)">
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#e0e0e0;fill-opacity:1">0/39</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect3237-7)">
 </tspan></tspan><tspan
          x="178.37695"
          y="580.99175"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect3237-7)">0/3a
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect3237-7)">0/3a
 </tspan></tspan><tspan
          x="178.37695"
          y="586.28343"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e0e0e0;fill-opacity:1">0/3b</tspan></tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#e0e0e0;fill-opacity:1">0/3b</tspan></tspan></text>
     <rect
        style="display:inline;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:0.363833"
        id="rect979-0-0"
@@ -564,40 +572,40 @@
     <image
        sodipodi:absref="/home/inivekin/code/amonac/0/spaceman_parachute.svg"
        xlink:href="0/spaceman_parachute.svg"
-       style="display:inline"
-       inkscape:label="parachute"
-       transform="rotate(23.146118)"
-       y="329.21872"
-       x="349.82498"
-       id="image6027"
-       height="61.355827"
-       width="141.74449"
+       preserveAspectRatio="none"
        inkscape:svg-dpi="96"
-       preserveAspectRatio="none" />
+       width="141.74449"
+       height="61.355827"
+       id="image6027"
+       x="349.82498"
+       y="329.21872"
+       transform="rotate(23.146118)"
+       inkscape:label="parachute"
+       style="display:inline" />
     <image
        sodipodi:absref="/home/inivekin/code/amonac/0/spaceman-and-universe.svg"
        xlink:href="0/spaceman-and-universe.svg"
-       inkscape:label="spaceman-and-universe"
-       y="438.6972"
-       x="245.18146"
-       id="image2102"
-       height="131.42448"
-       width="97.497597"
-       inkscape:svg-dpi="96"
+       style="display:inline;image-rendering:auto"
        preserveAspectRatio="none"
-       style="display:inline;image-rendering:auto" />
+       inkscape:svg-dpi="96"
+       width="97.497597"
+       height="131.42448"
+       id="image2102"
+       x="245.18146"
+       y="438.6972"
+       inkscape:label="spaceman-and-universe" />
     <image
        sodipodi:absref="/home/inivekin/code/amonac/0/upper-vacancies.svg"
        xlink:href="0/upper-vacancies.svg"
-       inkscape:label="upper-vacancies"
-       y="569.23767"
-       x="28.779644"
-       id="image6629"
-       height="221.10847"
-       width="321.61234"
-       inkscape:svg-dpi="96"
+       style="display:inline;fill:#e0e0e0;fill-opacity:1"
        preserveAspectRatio="none"
-       style="display:inline;fill:#e0e0e0;fill-opacity:1" />
+       inkscape:svg-dpi="96"
+       width="321.61234"
+       height="221.10847"
+       id="image6629"
+       x="28.779644"
+       y="569.23767"
+       inkscape:label="upper-vacancies" />
     <g
        id="g41643">
       <rect
@@ -911,27 +919,27 @@
     <image
        sodipodi:absref="/home/inivekin/code/amonac/0/stuck-in-the-zone.svg"
        xlink:href="0/stuck-in-the-zone.svg"
-       style="display:inline"
-       preserveAspectRatio="none"
-       inkscape:svg-dpi="96"
-       width="321.55878"
-       height="222.39384"
-       id="image8082"
-       x="28.716862"
+       inkscape:label="la-si"
        y="193.19228"
-       inkscape:label="la-si" />
+       x="28.716862"
+       id="image8082"
+       height="222.39384"
+       width="321.55878"
+       inkscape:svg-dpi="96"
+       preserveAspectRatio="none"
+       style="display:inline" />
     <image
        sodipodi:absref="/home/inivekin/code/amonac/0/spaceman-pulled-back.svg"
        xlink:href="0/spaceman-pulled-back.svg"
-       style="display:inline"
-       preserveAspectRatio="none"
-       inkscape:svg-dpi="96"
-       width="254"
-       height="142.875"
-       id="image8186"
-       x="63.503525"
+       inkscape:label="spaceman-pulled-back"
        y="322.59506"
-       inkscape:label="spaceman-pulled-back" />
+       x="63.503525"
+       id="image8186"
+       height="142.875"
+       width="254"
+       inkscape:svg-dpi="96"
+       preserveAspectRatio="none"
+       style="display:inline" />
     <rect
        style="display:inline;fill:#1d1f21;fill-opacity:1;stroke:none;stroke-width:0.229039"
        id="rect979"
@@ -1242,14 +1250,14 @@
         <image
            sodipodi:absref="/home/inivekin/code/amonac/0/spaceman-falling.svg"
            xlink:href="0/spaceman-falling.svg"
-           preserveAspectRatio="none"
-           inkscape:svg-dpi="96"
-           width="321.73334"
-           height="227.77451"
-           id="image7558"
-           x="-47.126472"
+           inkscape:label="spaceman-falling"
            y="121.1825"
-           inkscape:label="spaceman-falling" />
+           x="-47.126472"
+           id="image7558"
+           height="227.77451"
+           width="321.73334"
+           inkscape:svg-dpi="96"
+           preserveAspectRatio="none" />
       </g>
     </g>
     <text
@@ -1470,7 +1478,7 @@
     <text
        xml:space="preserve"
        id="text981-7-0-3-8"
-       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect983-7-1-6-7);display:inline;fill:#1d1f21;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect983-7-1-6-7);display:inline;fill:#1d1f21;fill-opacity:1;stroke:none;"
        x="0"
        y="0"
        transform="translate(113.95185,862.49628)"
@@ -1482,62 +1490,67 @@
 </tspan></tspan><tspan
          x="30.294922"
          y="-75.818985"><tspan
-           dx="0 0 0 0 0 0 0 4.0326896 0 0 0 0 0 0 0 0 0 0 0 4.0326886 0 0 0 0 0 0 0 0 4.0326886 0 0 0 0 0 0 0 4.0326886 0 0 4.0326886"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1f21;fill-opacity:1">During distracting flashing lights, it left
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1f21;fill-opacity:1">D</tspan><tspan
+           dx="0 0 0 0 0 0 4.0326891 0 0 0 0 0 0 0 0 0 0 0 4.0326891 0 0 0 0 0 0 0 0 4.0326891 0 0 0 0 0 0 0 4.0326853 0 0 4.0326853"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:'iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">uring distracting flashing lights, it left
 </tspan></tspan><tspan
          x="30.294922"
          y="-70.43489"><tspan
            dx="0 0 0 0 0 0 4.8793511 0 0 0 4.879353 0 0 0 0 0 4.8793492 0 0 0 4.879353 0 0 0 0 0 0 0 0 0 0 4.8793454"
-           style="fill:#e0e0e0">(Both the Empty and Spaceman's confidence</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1f21;fill-opacity:1">
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:'iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#e0e0e0">(Both the Empty and Spaceman's confidence</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:'iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start">
 </tspan></tspan><tspan
          x="30.294922"
          y="-65.050796"><tspan
            dx="0 0 0 5.7260146 0 0 0 5.7260137 0 0 0 0 0 0 0 0 0 0 0 0 5.7260137 0 0 0 0 5.7260175 0 0 0 0 0 0 0 5.7260098"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1f21;fill-opacity:1">in his satisfaction with unknown chance
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:'iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1f21;fill-opacity:1">in his satisfaction with unknown chance
 </tspan></tspan><tspan
          x="30.294922"
          y="-59.666702"><tspan
            dx="0 0 0 0 6.1493459 0 0 0 6.1493459 0 0 0 0 0 0 0 0 0 0 0 0 6.1493459 0 0 6.1493497 0 0 0 0 0 0 6.1493497"
-           style="fill:#e0e0e0">and his proclamation of common sense).</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1f21;fill-opacity:1">
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:'iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#e0e0e0">and his proclamation of common sense).</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:'iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start">
 </tspan></tspan><tspan
          x="30.294922"
          y="-54.282608"><tspan
            dx="0 0 0 0 0 0 0 4.4560199 0 0 0 0 0 0 4.4560189 0 0 0 4.4560208 0 0 0 0 0 0 0 4.4560208 0 0 0 4.4560208"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1f21;fill-opacity:1">Strobe lights for warning the unpredicted,
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:'iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1f21;fill-opacity:1">Strobe lights for warning the unpredicted,
 </tspan></tspan><tspan
          x="30.294922"
          y="-48.898513"><tspan
            dx="0 0 0 0 0 8.2158451 0 0 0 0 0 0 0 0 0 0 8.215847 0 0 0 0 0 0 8.2158432 0 0 0 0 0 0 0 0 0 0 8.215847"
-           style="fill:#e0e0e0">with continuous tracks propelling it,</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1f21;fill-opacity:1">
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:'iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#e0e0e0">with continuous tracks propelling it,</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:'iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start">
 </tspan></tspan><tspan
          x="30.294922"
          y="-43.514419"><tspan
            dx="0 0 0 0 0 0 0 0 4.0661263 0 0 0 0 0 0 4.0661244 0 0 0 4.0661283 0 0 0 0 0 0 0 4.0661283 0 0 0 0 4.0661283 0 0 0 0 0 4.0661283"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1f21;fill-opacity:1">carries forces and weapons that fight off
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:'iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1f21;fill-opacity:1">carries forces and weapons that fight off
 </tspan></tspan><tspan
          x="30.294922"
          y="-38.130325"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 16.43169 0 0 0 0 0 0 0 0 0 0 0 16.43169"
-           style="fill:#e0e0e0">nondeterministic, frightening things.</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1f21;fill-opacity:1">
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:'iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#e0e0e0">nondeterministic, frightening things.</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:'iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start">
 </tspan></tspan><tspan
          x="30.294922"
          y="-32.746231"><tspan
            dx="0 0 0 0 0 0.5940938 0 0 0 0.59409571 0 0 0 0 0 0 0 0.5940938 0 0 0.5940938 0 0 0 0.5940938 0 0 0 0 0 0 0.59408998 0 0 0.59409761 0 0 0 0 0 0 0.59409761 0 0 0.59408998"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1f21;fill-opacity:1">From the strings of the 'chute to 'cuffs on wrist,
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:'iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1f21;fill-opacity:1">From the strings of the 'chute to 'cuffs on wrist,
 </tspan></tspan><tspan
          x="30.294922"
          y="-27.362136"><tspan
            dx="0 0 0 0 0 3.4852509 0 0 3.4852509 0 0 0 0 0 0 3.485249 0 0 0 0 3.485249 0 0 3.485249 0 0 0 0 0 3.4852567 0 0 0 0 3.4852567"
-           style="fill:#e0e0e0">News he brings must be muted till secure.</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1f21;fill-opacity:1">
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:'iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#e0e0e0">News he brings must be muted till secure.</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:'iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start">
 </tspan></tspan><tspan
          x="30.294922"
          y="-21.978042"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1d1f21;fill-opacity:1">
 </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text86327"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect86329);fill:#000000;fill-opacity:1;stroke:none;" />
   </g>
 </svg>

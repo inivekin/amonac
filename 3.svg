@@ -293,6 +293,30 @@
        width="21.16667"
        height="71.4375"
        id="rect3300-5-4-4-3-3-8-3-7-0-1-1-9-1-2-7-5-7-7-7-8" />
+    <rect
+       x="178.37714"
+       y="534.81952"
+       width="11.566024"
+       height="53.354248"
+       id="rect3237-7-5-6-1-2-4-4-5-8-2-2-9-2-5-0-6-2-1" />
+    <rect
+       x="178.37714"
+       y="534.81952"
+       width="11.566024"
+       height="53.354248"
+       id="rect48456" />
+    <rect
+       x="30.295895"
+       y="-85.040092"
+       width="114.01315"
+       height="54.072197"
+       id="rect983-7-1-6-2-6-2-0-2-6-3-7-4-9-0-5-6-3-4" />
+    <rect
+       x="30.295895"
+       y="-85.040092"
+       width="114.01315"
+       height="54.072197"
+       id="rect48459" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -302,8 +326,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="180.6294"
-     inkscape:cy="2211.5005"
+     inkscape:cx="136.07604"
+     inkscape:cy="1050.4721"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -312,8 +336,8 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1278"
-     inkscape:window-height="1415"
+     inkscape:window-width="2560"
+     inkscape:window-height="1440"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
@@ -325,7 +349,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -334,16 +358,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(23.666513,688.37775)">
-    <image
-       sodipodi:absref="/home/inivekin/code/amonac/3/snake-jolts-the-leaner.svg"
-       xlink:href="3/snake-jolts-the-leaner.svg"
-       y="-688.37775"
+    <rect
+       style="fill:#1d1f21;fill-rule:evenodd;stroke-width:0.132"
+       id="rect35767"
+       width="321.56049"
+       height="696.05884"
        x="-23.666513"
-       id="image33592"
-       height="311.45795"
-       width="321.35602"
-       inkscape:svg-dpi="96"
-       preserveAspectRatio="none" />
+       y="-688.37775" />
     <image
        sodipodi:absref="/home/inivekin/code/amonac/3/surprised-leaner-with-thumb-in-mouth.svg"
        xlink:href="3/surprised-leaner-with-thumb-in-mouth.svg"
@@ -357,12 +378,225 @@
     <image
        sodipodi:absref="/home/inivekin/code/amonac/3/snake-from-leaners-perspective.svg"
        xlink:href="3/snake-from-leaners-perspective.svg"
-       y="-371.42523"
-       x="160.13515"
+       y="-341.57294"
+       x="160.50172"
        id="image39952"
        height="216.61807"
        width="117.62395"
        inkscape:svg-dpi="96"
        preserveAspectRatio="none" />
+    <text
+       xml:space="preserve"
+       id="text3235-6-6-05-5-5-8-2-0-9-3-9-8-5-8-0-8-3-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;-inkscape-font-specification:iosevka;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3237-7-5-6-1-2-4-4-5-8-2-2-9-2-5-0-6-2-1);fill:#ffffff;fill-opacity:1;stroke:none;"
+       transform="translate(-176.41695,-823.3034)"
+       inkscape:label="nl2"
+       class="text"><tspan
+         x="178.37695"
+         y="538.65825"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:iosevka;fill:#ffffff;fill-opacity:1">3/00
+</tspan></tspan><tspan
+         x="178.37695"
+         y="543.94994"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:iosevka;fill:#ffffff;fill-opacity:1">3</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:iosevka;fill:#ffffff;fill-opacity:1">/01
+</tspan></tspan><tspan
+         x="178.37695"
+         y="549.24162"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:iosevka;fill:#ffffff;fill-opacity:1">3</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:iosevka;fill:#ffffff;fill-opacity:1">/02
+</tspan></tspan><tspan
+         x="178.37695"
+         y="554.53331"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:iosevka;fill:#ffffff;fill-opacity:1">3</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:iosevka;fill:#ffffff;fill-opacity:1">/03
+</tspan></tspan><tspan
+         x="178.37695"
+         y="559.825"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:iosevka;fill:#ffffff;fill-opacity:1">3</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:iosevka;fill:#ffffff;fill-opacity:1">/04
+</tspan></tspan><tspan
+         x="178.37695"
+         y="565.11668"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:iosevka;fill:#ffffff;fill-opacity:1">3</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:iosevka;fill:#ffffff;fill-opacity:1">/05
+</tspan></tspan><tspan
+         x="178.37695"
+         y="570.40837"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:iosevka;fill:#ffffff;fill-opacity:1">3</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:iosevka;fill:#ffffff;fill-opacity:1">/06
+</tspan></tspan><tspan
+         x="178.37695"
+         y="575.70006"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:iosevka;fill:#ffffff;fill-opacity:1">3</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:iosevka;fill:#ffffff;fill-opacity:1">/07
+</tspan></tspan><tspan
+         x="178.37695"
+         y="580.99175"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:iosevka;fill:#ffffff;fill-opacity:1">3</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:iosevka;fill:#ffffff;fill-opacity:1">/08
+</tspan></tspan><tspan
+         x="178.37695"
+         y="586.28343"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:iosevka;fill:#ffffff;fill-opacity:1">3</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:iosevka;-inkscape-font-specification:iosevka;fill:#ffffff;fill-opacity:1">/09</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text981-7-0-3-5-8-7-2-7-9-0-3-3-3-2-8-7-2-7"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect983-7-1-6-2-6-2-0-2-6-3-7-4-9-0-5-6-3-4);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;"
+       x="0"
+       y="0"
+       transform="matrix(1.0011699,0,0,0.99027629,-12.887131,-204.63321)"
+       inkscape:label="text"
+       class="text"><tspan
+         x="30.294922"
+         y="-81.203079"><tspan
+           dx="0 0 0 0 1.2871857 0 0 0 0 1.2871861 0 0 0 0 0 0 1.2871861 0 0 0 0 1.2871861 0 0 0 0 0 0 1.2871823 0 0 0 0 1.28719 0 0 0 0 1.28719 0 0 0 0 1.2871823"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1">I'm sure you've been pulled from your lean before
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-75.818985"><tspan
+           dx="0 0 0 6.2928109 0 0 0 0 0 0 0 0 0 6.2928128 0 0 0 0 0 0 0 6.2928128 0 0 6.2928128 0 0 0 6.2928128"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1">in bloodless warfare by the unreclined.
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-70.43489"><tspan
+           dx="0 0 0 0 0 4.5384574 0 0 0 0 0 4.5384564 0 0 0 0 4.5384564 0 0 0 0 0 0 0 4.5384564 0 0 0 0 0 4.5384564 0 0 4.5384564"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1">They flood you, leaner, mired in torture,
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-65.050796"><tspan
+           dx="0 0 0 0 0 0 0 0 4.5384583 0 0 0 0 4.5384564 0 0 0 0 0 4.5384603 0 0 4.5384564 0 0 0 4.5384564 0 0 0 0 0 0 0 4.5384564"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1">bending your frame to fit picture refined
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-59.666702"><tspan
+           dx="0 0 0 4.1761546 0 0 0 0 0 0 4.1761556 0 0 0 0 0 4.1761518 0 0 0 0 0 0 0 0 0 0 0 0 4.1761518 0 0 0 0 0 0 0 0 0 4.1761594"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1">to please their perspective, favouring lines
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-54.282608"><tspan
+           dx="0 0 0 0 0 0 0 0 5.5967851 0 0 0 5.5967851 0 0 0 0 0 0 0 5.596787 0 0 0 0 0 0 5.5967832 0 0 5.5967832 0 0 0 0 0 0 5.5967832"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1">frantic and sharply angled to viewer -
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-48.898513"><tspan
+           dx="0 0 0 0 0 0 0 0 4.1856809 0 0 0 0 0 0 0 4.1856809 0 0 0 0 0 0 0 4.1856809 0 0 0 0 4.1856809 0 0 0 4.1856809 0 0 0 4.1856809"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1">slicing resting subject with tax and fines
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-43.514419"><tspan
+           dx="0 0 0 8.8327999 0 0 0 0 0 0 8.832798 0 0 0 0 8.832798 0 0 8.8328018 0 0 0 0 0 0 8.832798"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1">on taking time to admire leisure.
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-38.130325"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 16.83799 0 0 0 0 0 0 16.837986 0 0 0 16.837986"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1">Entitiled owners see terrorism
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-32.746231"><tspan
+           dx="0 0 0 0 0 0 0 0 26.315311 0 0 0 0 0 0 0 0 0 0 0 26.315311"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1">viewing undemanding hedonism.
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-27.362136"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1">
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="30.294922"
+         y="-27.130813"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1">
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="30.294922"
+         y="-21.746719"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1">
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="30.294922"
+         y="-16.362625"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1">
+</tspan></tspan></text>
+    <g
+       inkscape:label="Layer 1"
+       id="layer1-7"
+       transform="matrix(0.3825517,0,0,0.3825517,54.193987,-686.45308)">
+      <image
+         sodipodi:absref="/home/inivekin/code/amonac/3/leaner.svg"
+         xlink:href="3/leaner.svg"
+         y="-4.7509894"
+         x="-48.824818"
+         id="image1770"
+         height="383.91003"
+         width="286.17273"
+         inkscape:svg-dpi="96"
+         preserveAspectRatio="none" />
+      <image
+         sodipodi:absref="/home/inivekin/code/amonac/3/snake-leaning-in-on-leaner.svg"
+         xlink:href="3/snake-leaning-in-on-leaner.svg"
+         y="124.84473"
+         x="-173.44464"
+         id="image1508"
+         height="213.27541"
+         width="166.99356"
+         inkscape:svg-dpi="96"
+         preserveAspectRatio="none" />
+      <image
+         sodipodi:absref="/home/inivekin/code/amonac/3/leaner.svg"
+         xlink:href="3/leaner.svg"
+         y="-6.0251269"
+         x="354.42838"
+         id="image1770-2"
+         height="385.32037"
+         width="287.22403"
+         inkscape:svg-dpi="96"
+         preserveAspectRatio="none" />
+      <image
+         sodipodi:absref="/home/inivekin/code/amonac/3/snake-leaning-in-on-leaner-2.svg"
+         xlink:href="3/snake-leaning-in-on-leaner-2.svg"
+         y="121.39894"
+         x="233.86858"
+         id="image4120"
+         height="218.32053"
+         width="130.05153"
+         inkscape:svg-dpi="96"
+         preserveAspectRatio="none" />
+      <image
+         sodipodi:absref="/home/inivekin/code/amonac/3/leaner.svg"
+         xlink:href="3/leaner.svg"
+         y="337.39203"
+         x="-175.33839"
+         id="image1770-2-2"
+         height="555.86951"
+         width="414.35406"
+         inkscape:svg-dpi="96"
+         preserveAspectRatio="none" />
+      <path
+         style="fill:#282a2e;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -28.937967,658.41387 c -23.885715,-10.19347 -54.888262,19.06074 -64.234864,3.04245 -9.346609,-16.0183 -19.517919,-42.25611 -40.715729,-52.31956 -21.19781,-10.06346 -24.28277,-2.00224 -34.14861,11.70172 -9.86584,13.70396 41.50981,57.10418 35.40094,60.95273 -6.10886,3.84855 -25.10748,10.50549 -11.27086,13.46994 13.83661,2.96442 27.52047,-23.06534 39.21899,-10.84358 11.698528,12.22177 -9.10223,21.34907 3.39043,26.00375 12.492666,4.65466 49.63468,-23.35135 50.825909,-12.09175 1.191228,11.25961 15.058413,29.72226 2.779543,36.11917 -12.278868,6.39691 -11.576339,18.43673 -1.893756,16.95448 9.682581,-1.48228 37.447421,-81.00163 20.648007,-92.98935 z"
+         id="path19345"
+         sodipodi:nodetypes="cssssssssssc" />
+      <image
+         sodipodi:absref="/home/inivekin/code/amonac/3/snake-leaning-in-on-leaner-3.svg"
+         xlink:href="3/snake-leaning-in-on-leaner-3.svg"
+         y="552.37421"
+         x="-157.34726"
+         id="image5679"
+         height="202.70578"
+         width="154.98012"
+         inkscape:svg-dpi="96"
+         preserveAspectRatio="none" />
+      <image
+         sodipodi:absref="/home/inivekin/code/amonac/3/leaner-falls.svg"
+         xlink:href="3/leaner-falls.svg"
+         y="339.71948"
+         x="233.86858"
+         id="image17120"
+         height="551.67542"
+         width="409.43616"
+         inkscape:svg-dpi="96"
+         preserveAspectRatio="none" />
+    </g>
   </g>
 </svg>
