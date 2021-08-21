@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="321.35602mm"
-   height="695.80206mm"
-   viewBox="0 0 321.35602 695.80206"
+   width="321.95782mm"
+   height="1875.9346mm"
+   viewBox="0 0 321.95783 1875.9346"
    version="1.1"
    id="svg20549"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -350,9 +350,63 @@
     <rect
        x="30.295895"
        y="-85.040092"
+       width="115.30542"
+       height="71.260193"
+       id="rect983-7-1-6-2-6-2-0-2-6-3-7-4-9-0-5-6-3-4-2-8-8" />
+    <rect
+       x="178.37714"
+       y="534.81952"
+       width="11.566024"
+       height="53.354248"
+       id="rect3237-7-5-6-1-2-4-4-5-8-2-2-9-2-5-0-6-2-1-4-1-9-2" />
+    <rect
+       x="30.295895"
+       y="-85.040092"
        width="110.76845"
        height="54.548481"
-       id="rect983-7-1-6-2-6-2-0-2-6-3-7-4-9-0-5-6-3-4-2-8-8" />
+       id="rect983-7-1-6-2-6-2-0-2-6-3-7-4-9-0-5-6-3-4-2-8-8-0" />
+    <rect
+       x="30.295895"
+       y="-85.040092"
+       width="115.30542"
+       height="71.260193"
+       id="rect983-7-1-6-2-6-2-0-2-6-3-7-4-9-0-5-6-3-4-2-8-8-6" />
+    <rect
+       x="30.295895"
+       y="-85.040092"
+       width="115.30542"
+       height="71.260193"
+       id="rect983-7-1-6-2-6-2-0-2-6-3-7-4-9-0-5-6-3-4-2-8-8-6-4" />
+    <rect
+       x="178.37714"
+       y="534.81952"
+       width="11.566024"
+       height="53.354248"
+       id="rect3237-7-5-6-1-2-4-4-5-8-2-2-9-2-5-0-6-2-1-4-1-9-2-4" />
+    <rect
+       x="30.295895"
+       y="-85.040092"
+       width="115.30542"
+       height="71.260193"
+       id="rect983-7-1-6-2-6-2-0-2-6-3-7-4-9-0-5-6-3-4-2-8-8-6-4-3" />
+    <rect
+       x="178.37714"
+       y="534.81952"
+       width="11.566024"
+       height="53.354248"
+       id="rect3237-7-5-6-1-2-4-4-5-8-2-2-9-2-5-0-6-2-1-4-1-9-2-4-7" />
+    <rect
+       x="30.295895"
+       y="-85.040092"
+       width="115.30542"
+       height="71.260193"
+       id="rect983-7-1-6-2-6-2-0-2-6-3-7-4-9-0-5-6-3-4-2-8-8-6-4-3-1" />
+    <rect
+       x="178.37714"
+       y="534.81952"
+       width="11.566024"
+       height="53.354248"
+       id="rect3237-7-5-6-1-2-4-4-5-8-2-2-9-2-5-0-6-2-1-4-1-9-2-4-7-0" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -362,18 +416,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="661.64991"
-     inkscape:cy="4208.2955"
+     inkscape:cx="247.48737"
+     inkscape:cy="5923.5345"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
-     fit-margin-right="0"
+     fit-margin-right="-2"
      fit-margin-bottom="0"
-     inkscape:window-width="2558"
-     inkscape:window-height="1415"
+     inkscape:window-width="1918"
+     inkscape:window-height="1055"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -393,7 +447,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(23.666513,688.37775)">
+     transform="translate(23.666513,688.758)">
     <rect
        style="fill:#1d1f21;fill-rule:evenodd;stroke-width:0.140267"
        id="rect35767"
@@ -402,12 +456,26 @@
        x="-23.666513"
        y="-688.37775" />
     <rect
-       style="fill:#e0e0e0;fill-rule:evenodd;stroke-width:0.140267"
+       style="fill:#e0e0e0;fill-rule:evenodd;stroke-width:0.10814"
        id="rect35767-0"
        width="321.56"
-       height="785.97162"
+       height="467.16129"
        x="-23.448238"
        y="400.34622" />
+    <rect
+       style="fill:#e0e0e0;fill-rule:evenodd;stroke-width:0.0653346"
+       id="rect35767-0-1"
+       width="321.56"
+       height="170.52205"
+       x="-23.448242"
+       y="1016.6545" />
+    <rect
+       style="fill:#1d1f21;fill-rule:evenodd;stroke-width:0.0652947"
+       id="rect35767-0-2"
+       width="321.56"
+       height="170.31367"
+       x="-23.448238"
+       y="862.21582" />
     <image
        xlink:href="3/surprised-leaner-with-thumb-in-mouth.svg"
        y="-90.763718"
@@ -435,81 +503,81 @@
        class="text"><tspan
          x="178.37695"
          y="538.65825"
-         id="tspan65911"><tspan
+         id="tspan112106"><tspan
            style="font-family:iosevka"
-           id="tspan65909">3/00
+           id="tspan112104">3/00
 </tspan></tspan><tspan
          x="178.37695"
          y="543.94994"
-         id="tspan65917"><tspan
+         id="tspan112112"><tspan
            style="font-family:iosevka"
-           id="tspan65913">3</tspan><tspan
+           id="tspan112108">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan65915">/01
+           id="tspan112110">/01
 </tspan></tspan><tspan
          x="178.37695"
          y="549.24162"
-         id="tspan65923"><tspan
+         id="tspan112118"><tspan
            style="font-family:iosevka"
-           id="tspan65919">3</tspan><tspan
+           id="tspan112114">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan65921">/02
+           id="tspan112116">/02
 </tspan></tspan><tspan
          x="178.37695"
          y="554.53331"
-         id="tspan65929"><tspan
+         id="tspan112124"><tspan
            style="font-family:iosevka"
-           id="tspan65925">3</tspan><tspan
+           id="tspan112120">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan65927">/03
+           id="tspan112122">/03
 </tspan></tspan><tspan
          x="178.37695"
          y="559.825"
-         id="tspan65935"><tspan
+         id="tspan112130"><tspan
            style="font-family:iosevka"
-           id="tspan65931">3</tspan><tspan
+           id="tspan112126">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan65933">/04
+           id="tspan112128">/04
 </tspan></tspan><tspan
          x="178.37695"
          y="565.11668"
-         id="tspan65941"><tspan
+         id="tspan112136"><tspan
            style="font-family:iosevka"
-           id="tspan65937">3</tspan><tspan
+           id="tspan112132">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan65939">/05
+           id="tspan112134">/05
 </tspan></tspan><tspan
          x="178.37695"
          y="570.40837"
-         id="tspan65947"><tspan
+         id="tspan112142"><tspan
            style="font-family:iosevka"
-           id="tspan65943">3</tspan><tspan
+           id="tspan112138">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan65945">/06
+           id="tspan112140">/06
 </tspan></tspan><tspan
          x="178.37695"
          y="575.70006"
-         id="tspan65953"><tspan
+         id="tspan112148"><tspan
            style="font-family:iosevka"
-           id="tspan65949">3</tspan><tspan
+           id="tspan112144">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan65951">/07
+           id="tspan112146">/07
 </tspan></tspan><tspan
          x="178.37695"
          y="580.99175"
-         id="tspan65959"><tspan
+         id="tspan112154"><tspan
            style="font-family:iosevka"
-           id="tspan65955">3</tspan><tspan
+           id="tspan112150">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan65957">/08
+           id="tspan112152">/08
 </tspan></tspan><tspan
          x="178.37695"
          y="586.28343"
-         id="tspan65965"><tspan
+         id="tspan112160"><tspan
            style="font-family:iosevka"
-           id="tspan65961">3</tspan><tspan
+           id="tspan112156">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan65963">/09</tspan></tspan></text>
+           id="tspan112158">/09</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text981-7-0-3-5-8-7-2-7-9-0-3-3-3-2-8-7-2-7"
@@ -521,97 +589,97 @@
        class="text"><tspan
          x="30.294922"
          y="-81.203079"
-         id="tspan65969"><tspan
+         id="tspan112164"><tspan
            dx="0 0 0 0 1.2871857 0 0 0 0 1.2871861 0 0 0 0 0 0 1.2871861 0 0 0 0 1.2871861 0 0 0 0 0 0 1.2871823 0 0 0 0 1.28719 0 0 0 0 1.28719 0 0 0 0 1.2871823"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan65967">I'm sure you've been pulled from your lean before
+           id="tspan112162">I'm sure you've been pulled from your lean before
 </tspan></tspan><tspan
          x="30.294922"
          y="-75.818985"
-         id="tspan65973"><tspan
+         id="tspan112168"><tspan
            dx="0 0 0 6.2928109 0 0 0 0 0 0 0 0 0 6.2928128 0 0 0 0 0 0 0 6.2928128 0 0 6.2928128 0 0 0 6.2928128"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan65971">in bloodless warfare by the unreclined.
+           id="tspan112166">in bloodless warfare by the unreclined.
 </tspan></tspan><tspan
          x="30.294922"
          y="-70.43489"
-         id="tspan65977"><tspan
+         id="tspan112172"><tspan
            dx="0 0 0 0 0 4.5384574 0 0 0 0 0 4.5384564 0 0 0 0 4.5384564 0 0 0 0 0 0 0 4.5384564 0 0 0 0 0 4.5384564 0 0 4.5384564"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan65975">They flood you, leaner, mired in torture,
+           id="tspan112170">They flood you, leaner, mired in torture,
 </tspan></tspan><tspan
          x="30.294922"
          y="-65.050796"
-         id="tspan65981"><tspan
+         id="tspan112176"><tspan
            dx="0 0 0 0 0 0 0 0 4.5384583 0 0 0 0 4.5384564 0 0 0 0 0 4.5384603 0 0 4.5384564 0 0 0 4.5384564 0 0 0 0 0 0 0 4.5384564"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan65979">bending your frame to fit picture refined
+           id="tspan112174">bending your frame to fit picture refined
 </tspan></tspan><tspan
          x="30.294922"
          y="-59.666702"
-         id="tspan65985"><tspan
+         id="tspan112180"><tspan
            dx="0 0 0 4.1761546 0 0 0 0 0 0 4.1761556 0 0 0 0 0 4.1761518 0 0 0 0 0 0 0 0 0 0 0 0 4.1761518 0 0 0 0 0 0 0 0 0 4.1761594"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan65983">to please their perspective, favouring lines
+           id="tspan112178">to please their perspective, favouring lines
 </tspan></tspan><tspan
          x="30.294922"
          y="-54.282608"
-         id="tspan65989"><tspan
+         id="tspan112184"><tspan
            dx="0 0 0 0 0 0 0 0 5.5967851 0 0 0 5.5967851 0 0 0 0 0 0 0 5.596787 0 0 0 0 0 0 5.5967832 0 0 5.5967832 0 0 0 0 0 0 5.5967832"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan65987">frantic and sharply angled to viewer -
+           id="tspan112182">frantic and sharply angled to viewer -
 </tspan></tspan><tspan
          x="30.294922"
          y="-48.898513"
-         id="tspan65993"><tspan
+         id="tspan112188"><tspan
            dx="0 0 0 0 0 0 0 0 4.1856809 0 0 0 0 0 0 0 4.1856809 0 0 0 0 0 0 0 4.1856809 0 0 0 0 4.1856809 0 0 0 4.1856809 0 0 0 4.1856809"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan65991">slicing resting subject with tax and fines
+           id="tspan112186">slicing resting subject with tax and fines
 </tspan></tspan><tspan
          x="30.294922"
          y="-43.514419"
-         id="tspan65997"><tspan
+         id="tspan112192"><tspan
            dx="0 0 0 8.8327999 0 0 0 0 0 0 8.832798 0 0 0 0 8.832798 0 0 8.8328018 0 0 0 0 0 0 8.832798"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan65995">on taking time to admire leisure.
+           id="tspan112190">on taking time to admire leisure.
 </tspan></tspan><tspan
          x="30.294922"
          y="-38.130325"
-         id="tspan66001"><tspan
+         id="tspan112196"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 16.83799 0 0 0 0 0 0 16.837986 0 0 0 16.837986"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan65999">Entitiled owners see terrorism
+           id="tspan112194">Entitiled owners see terrorism
 </tspan></tspan><tspan
          x="30.294922"
          y="-32.746231"
-         id="tspan66005"><tspan
+         id="tspan112200"><tspan
            dx="0 0 0 0 0 0 0 0 26.315311 0 0 0 0 0 0 0 0 0 0 0 26.315311"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66003">viewing undemanding hedonism.
+           id="tspan112198">viewing undemanding hedonism.
 </tspan></tspan><tspan
          x="30.294922"
          y="-27.362136"
-         id="tspan66009"><tspan
+         id="tspan112204"><tspan
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66007">
+           id="tspan112202">
 </tspan></tspan><tspan
          x="30.294922"
          y="-27.130813"
-         id="tspan66013"><tspan
+         id="tspan112208"><tspan
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66011">
+           id="tspan112206">
 </tspan></tspan><tspan
          x="30.294922"
          y="-21.746719"
-         id="tspan66017"><tspan
+         id="tspan112212"><tspan
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66015">
+           id="tspan112210">
 </tspan></tspan><tspan
          x="30.294922"
          y="-16.362625"
-         id="tspan66021"><tspan
+         id="tspan112216"><tspan
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66019">
+           id="tspan112214">
 </tspan></tspan></text>
     <text
        xml:space="preserve"
@@ -622,81 +690,81 @@
        class="text"><tspan
          x="178.37695"
          y="538.65825"
-         id="tspan66025"><tspan
+         id="tspan112220"><tspan
            style="font-family:iosevka"
-           id="tspan66023">3/0a
+           id="tspan112218">3/0a
 </tspan></tspan><tspan
          x="178.37695"
          y="543.94994"
-         id="tspan66031"><tspan
+         id="tspan112226"><tspan
            style="font-family:iosevka"
-           id="tspan66027">3</tspan><tspan
+           id="tspan112222">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan66029">/0b
+           id="tspan112224">/0b
 </tspan></tspan><tspan
          x="178.37695"
          y="549.24162"
-         id="tspan66037"><tspan
+         id="tspan112232"><tspan
            style="font-family:iosevka"
-           id="tspan66033">3</tspan><tspan
+           id="tspan112228">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan66035">/0c
+           id="tspan112230">/0c
 </tspan></tspan><tspan
          x="178.37695"
          y="554.53331"
-         id="tspan66043"><tspan
+         id="tspan112238"><tspan
            style="font-family:iosevka"
-           id="tspan66039">3</tspan><tspan
+           id="tspan112234">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan66041">/0d
+           id="tspan112236">/0d
 </tspan></tspan><tspan
          x="178.37695"
          y="559.825"
-         id="tspan66049"><tspan
+         id="tspan112244"><tspan
            style="font-family:iosevka"
-           id="tspan66045">3</tspan><tspan
+           id="tspan112240">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan66047">/0e
+           id="tspan112242">/0e
 </tspan></tspan><tspan
          x="178.37695"
          y="565.11668"
-         id="tspan66055"><tspan
+         id="tspan112250"><tspan
            style="font-family:iosevka"
-           id="tspan66051">3</tspan><tspan
+           id="tspan112246">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan66053">/0f
+           id="tspan112248">/0f
 </tspan></tspan><tspan
          x="178.37695"
          y="570.40837"
-         id="tspan66061"><tspan
+         id="tspan112256"><tspan
            style="font-family:iosevka"
-           id="tspan66057">3</tspan><tspan
+           id="tspan112252">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan66059">/10
+           id="tspan112254">/10
 </tspan></tspan><tspan
          x="178.37695"
          y="575.70006"
-         id="tspan66067"><tspan
+         id="tspan112262"><tspan
            style="font-family:iosevka"
-           id="tspan66063">3</tspan><tspan
+           id="tspan112258">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan66065">/11
+           id="tspan112260">/11
 </tspan></tspan><tspan
          x="178.37695"
          y="580.99175"
-         id="tspan66073"><tspan
+         id="tspan112268"><tspan
            style="font-family:iosevka"
-           id="tspan66069">3</tspan><tspan
+           id="tspan112264">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan66071">/12
+           id="tspan112266">/12
 </tspan></tspan><tspan
          x="178.37695"
          y="586.28343"
-         id="tspan66079"><tspan
+         id="tspan112274"><tspan
            style="font-family:iosevka"
-           id="tspan66075">3</tspan><tspan
+           id="tspan112270">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan66077">/13</tspan></tspan></text>
+           id="tspan112272">/13</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text981-7-0-3-5-8-7-2-7-9-0-3-3-3-2-8-7-2-7-0"
@@ -708,97 +776,97 @@
        class="text"><tspan
          x="30.294922"
          y="-81.203079"
-         id="tspan66083"><tspan
+         id="tspan112278"><tspan
            dx="0 0 0 7.9861369 0 0 0 7.9861379 0 0 0 0 0 0 7.9861379 0 0 7.9861379 0 0 0 0 0 0 0 0 0 0 0 0 0 7.9861341"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66081">&quot;I see wisdom in thumb-sucking baby
+           id="tspan112276">&quot;I see wisdom in thumb-sucking baby
 </tspan></tspan><tspan
          x="30.294922"
          y="-75.818985"
-         id="tspan66087"><tspan
+         id="tspan112282"><tspan
            dx="0 0 0 0 5.9495625 0 0 0 0 5.9495606 0 0 0 0 5.9495625 0 0 0 0 5.9495625 0 0 0 0 0 0 0 5.9495664 0 5.9495587"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66085">but weep too, from knowing a quietude
+           id="tspan112280">but weep too, from knowing a quietude
 </tspan></tspan><tspan
          x="30.294922"
          y="-70.43489"
-         id="tspan66091"><tspan
+         id="tspan112286"><tspan
            dx="0 0 0 6.7161422 0 0 0 0 0 6.7161431 0 0 6.7161412 0 0 0 0 0 6.716145 0 0 6.7161374"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66089">is found so young by self-sufficiency,
+           id="tspan112284">is found so young by self-sufficiency,
 </tspan></tspan><tspan
          x="30.294922"
          y="-65.050796"
-         id="tspan66095"><tspan
+         id="tspan112290"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 16.132435 0 0 0 0 16.132435 0 0 0 0 0 0 0 16.132435"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66093">unguarded from insular attitude
+           id="tspan112288">unguarded from insular attitude
 </tspan></tspan><tspan
          x="30.294922"
          y="-59.666702"
-         id="tspan66099"><tspan
+         id="tspan112294"><tspan
            dx="0 0 0 0 1.2871857 0 0 0 0 0 1.2871861 0 0 0 1.2871881 0 0 0 0 1.2871861 0 0 0 0 1.2871861 0 0 0 0 0 1.2871823 0 0 0 0 0 0 0 0 0 0 1.2871823 0 0 0 0 0 0 1.2871823"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66097">and worse the ones that paint themselves abloom -
+           id="tspan112292">and worse the ones that paint themselves abloom -
 </tspan></tspan><tspan
          x="30.294922"
          y="-54.282608"
-         id="tspan66103"><tspan
+         id="tspan112298"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 9.9826698 0 0 0 0 0 0 9.9826698 0 0 0 9.9826698 0 9.9826698"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66101">representation that's not a flower,
+           id="tspan112296">representation that's not a flower,
 </tspan></tspan><tspan
          x="30.294922"
          y="-48.898513"
-         id="tspan66107"><tspan
+         id="tspan112302"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 5.0228162 0 0 0 0 0 0 5.02282 0 0 0 0 0 0 5.02282 0 0 0 0 0 0 5.0228162 0 0 5.0228162"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66105">flaunting petals still, giving no perfume.
+           id="tspan112300">flaunting petals still, giving no perfume.
 </tspan></tspan><tspan
          x="30.294922"
          y="-43.514419"
-         id="tspan66111"><tspan
+         id="tspan112306"><tspan
            dx="0 0 0 6.3023381 0 0 0 0 0 0 0 6.3023381 0 0 0 0 0 6.3023381 0 0 0 0 0 0 0 6.3023343 0 0 6.3023343 0 0 6.3023419"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66109">We trusted their promise of an offer
+           id="tspan112304">We trusted their promise of an offer
 </tspan></tspan><tspan
          x="30.294922"
          y="-38.130325"
-         id="tspan66115"><tspan
+         id="tspan112310"><tspan
            dx="0 0 0 0 3.5877266 0 0 0 0 0 0 0 3.5877252 0 0 3.5877271 0 0 0 0 3.5877233 0 0 0 0 3.5877271 0 0 0 0 0 3.5877271 0 0 3.5877271"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66113">but learned to live life aloof on treason.
+           id="tspan112308">but learned to live life aloof on treason.
 </tspan></tspan><tspan
          x="30.294922"
          y="-32.746231"
-         id="tspan66119"><tspan
+         id="tspan112314"><tspan
            dx="0 0 5.4020042 0 0 0 0 0 5.4020047 0 0 5.4020028 0 0 0 0 0 5.4020009 0 0 0 5.4020009 0 0 0 5.4020047 0 0 0 5.4020047"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66117">I offer my thumb for its our season.
+           id="tspan112312">I offer my thumb for its our season.
 </tspan></tspan><tspan
          x="30.294922"
          y="-27.362136"
-         id="tspan66123"><tspan
+         id="tspan112318"><tspan
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66121">
+           id="tspan112316">
 </tspan></tspan><tspan
          x="30.294922"
          y="-27.130813"
-         id="tspan66127"><tspan
+         id="tspan112322"><tspan
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66125">
+           id="tspan112320">
 </tspan></tspan><tspan
          x="30.294922"
          y="-21.746719"
-         id="tspan66131"><tspan
+         id="tspan112326"><tspan
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66129">
+           id="tspan112324">
 </tspan></tspan><tspan
          x="30.294922"
          y="-16.362625"
-         id="tspan66135"><tspan
+         id="tspan112330"><tspan
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66133">
+           id="tspan112328">
 </tspan></tspan></text>
     <text
        xml:space="preserve"
@@ -809,81 +877,81 @@
        class="text"><tspan
          x="178.37695"
          y="538.65825"
-         id="tspan66139"><tspan
+         id="tspan112334"><tspan
            style="font-family:iosevka"
-           id="tspan66137">3/14
+           id="tspan112332">3/14
 </tspan></tspan><tspan
          x="178.37695"
          y="543.94994"
-         id="tspan66145"><tspan
+         id="tspan112340"><tspan
            style="font-family:iosevka"
-           id="tspan66141">3</tspan><tspan
+           id="tspan112336">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan66143">/15
+           id="tspan112338">/15
 </tspan></tspan><tspan
          x="178.37695"
          y="549.24162"
-         id="tspan66151"><tspan
+         id="tspan112346"><tspan
            style="font-family:iosevka"
-           id="tspan66147">3</tspan><tspan
+           id="tspan112342">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan66149">/16
+           id="tspan112344">/16
 </tspan></tspan><tspan
          x="178.37695"
          y="554.53331"
-         id="tspan66157"><tspan
+         id="tspan112352"><tspan
            style="font-family:iosevka"
-           id="tspan66153">3</tspan><tspan
+           id="tspan112348">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan66155">/17
+           id="tspan112350">/17
 </tspan></tspan><tspan
          x="178.37695"
          y="559.825"
-         id="tspan66163"><tspan
+         id="tspan112358"><tspan
            style="font-family:iosevka"
-           id="tspan66159">3</tspan><tspan
+           id="tspan112354">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan66161">/18
+           id="tspan112356">/18
 </tspan></tspan><tspan
          x="178.37695"
          y="565.11668"
-         id="tspan66169"><tspan
+         id="tspan112364"><tspan
            style="font-family:iosevka"
-           id="tspan66165">3</tspan><tspan
+           id="tspan112360">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan66167">/19
+           id="tspan112362">/19
 </tspan></tspan><tspan
          x="178.37695"
          y="570.40837"
-         id="tspan66175"><tspan
+         id="tspan112370"><tspan
            style="font-family:iosevka"
-           id="tspan66171">3</tspan><tspan
+           id="tspan112366">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan66173">/1a
+           id="tspan112368">/1a
 </tspan></tspan><tspan
          x="178.37695"
          y="575.70006"
-         id="tspan66181"><tspan
+         id="tspan112376"><tspan
            style="font-family:iosevka"
-           id="tspan66177">3</tspan><tspan
+           id="tspan112372">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan66179">/1b
+           id="tspan112374">/1b
 </tspan></tspan><tspan
          x="178.37695"
          y="580.99175"
-         id="tspan66187"><tspan
+         id="tspan112382"><tspan
            style="font-family:iosevka"
-           id="tspan66183">3</tspan><tspan
+           id="tspan112378">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan66185">/1c
+           id="tspan112380">/1c
 </tspan></tspan><tspan
          x="178.37695"
          y="586.28343"
-         id="tspan66193"><tspan
+         id="tspan112388"><tspan
            style="font-family:iosevka"
-           id="tspan66189">3</tspan><tspan
+           id="tspan112384">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan66191">/1d</tspan></tspan></text>
+           id="tspan112386">/1d</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text981-7-0-3-5-8-7-2-7-9-0-3-3-3-2-8-7-2-7-0-2"
@@ -895,97 +963,97 @@
        class="text"><tspan
          x="30.294922"
          y="-81.203079"
-         id="tspan66197"><tspan
+         id="tspan112392"><tspan
            dx="0 0 0 0 0 2.6805882 0 0 0 0 2.6805882 0 0 2.6805863 0 0 0 2.6805882 0 0 0 0 0 0 2.6805921 0 0 0 0 2.6805921 0 0 0 0 0 0 0 0 0 2.6805844"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66195">&quot;You take in all labels like scattered seeds,
+           id="tspan112390">&quot;You take in all labels like scattered seeds,
 </tspan></tspan><tspan
          x="30.294922"
          y="-75.818985"
-         id="tspan66201"><tspan
+         id="tspan112396"><tspan
            dx="0 0 0 0 5.0996246 0 0 0 5.0996251 0 0 5.0996232 0 0 0 0 5.0996251 0 0 0 5.0996289 0 0 0 0 0 0 0 0 0 5.0996289 0 0 0 0 0 5.0996213"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66199">not one to bite off pacifying thumb -
+           id="tspan112394">not one to bite off pacifying thumb -
 </tspan></tspan><tspan
          x="30.294922"
          y="-70.43489"
-         id="tspan66205"><tspan
+         id="tspan112400"><tspan
            dx="0 0 0 0 0 8.9243412 0 0 0 0 0 8.9243412 0 0 0 0 0 0 0 0 0 0 8.9243431 0 0 0 0 0 0 0 0 0 8.9243431"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66203">even those off-green. Parasitic weeds
+           id="tspan112398">even those off-green. Parasitic weeds
 </tspan></tspan><tspan
          x="30.294922"
          y="-65.050796"
-         id="tspan66209"><tspan
+         id="tspan112404"><tspan
            dx="0 0 0 0 0 3.4801288 0 0 0 0 0 3.4801297 0 0 0 0 0 3.4801259 0 0 0 0 3.4801297 0 0 0 3.4801297 0 0 0 0 0 0 0 0 0 0 3.4801297"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66207">numb their brain stem for undeserved aplomb.
+           id="tspan112402">numb their brain stem for undeserved aplomb.
 </tspan></tspan><tspan
          x="30.294922"
          y="-59.666702"
-         id="tspan66213"><tspan
+         id="tspan112408"><tspan
            dx="0 0 0 0 0 6.3023381 0 0 0 0 6.3023381 0 0 0 6.3023381 0 0 6.3023381 0 0 0 0 6.3023419 0 0 0 0 6.3023419"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66211">They tend you so only they propagate
+           id="tspan112406">They tend you so only they propagate
 </tspan></tspan><tspan
          x="30.294922"
          y="-54.282608"
-         id="tspan66217"><tspan
+         id="tspan112412"><tspan
            dx="0 0 0 0 0 0 0 0 10.511835 0 0 0 0 0 0 0 10.511833 0 0 0 0 0 10.511829 0 0 10.511837"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66215">feeding suicide candy to unchecked
+           id="tspan112410">feeding suicide candy to unchecked
 </tspan></tspan><tspan
          x="30.294922"
          y="-48.898513"
-         id="tspan66221"><tspan
+         id="tspan112416"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0.56393099 0 0.56393099 0 0 0 0 0 0 0.56393099 0 0 0 0 0.56393099 0 0 0 0 0 0 0.56393099 0 0 0 0 0 0 0 0.56393099 0 0 0 0 0 0 0.56393099"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66219">demeanours - should they spore, greener worlds wait,
+           id="tspan112414">demeanours - should they spore, greener worlds wait,
 </tspan></tspan><tspan
          x="30.294922"
          y="-43.514419"
-         id="tspan66225"><tspan
+         id="tspan112420"><tspan
            dx="0 0 0 0 0 0 0 0 7.3368497 0 0 0 0 0 0 0 0 0 0 7.3368497 0 0 0 0 0 7.3368497 0 0 0 0 0 0 0 7.3368497"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66223">heeding multiplied hands meeting reject,
+           id="tspan112418">heeding multiplied hands meeting reject,
 </tspan></tspan><tspan
          x="30.294922"
          y="-38.130325"
-         id="tspan66229"><tspan
+         id="tspan112424"><tspan
            dx="0 0 0 0 0 0 0 0 9.4535065 0 0 0 0 0 0 0 0 0 0 0 9.4535065 0 0 9.4535027 0 0 0 0 0 9.4535103"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66227">growing fungi-algae to great effect,
+           id="tspan112422">growing fungi-algae to great effect,
 </tspan></tspan><tspan
          x="30.294922"
          y="-32.746231"
-         id="tspan66233"><tspan
+         id="tspan112428"><tspan
            dx="0 0 0 0 0 3.8329053 0 0 0 0 3.8329053 0 0 0 0 0 3.8329053 0 0 0 0 3.8329015 0 0 0 0 3.8329053 0 0 0 0 0 3.8329053"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66231">I've only found help from class imperfect.&quot;
+           id="tspan112426">I've only found help from class imperfect.&quot;
 </tspan></tspan><tspan
          x="30.294922"
          y="-27.362136"
-         id="tspan66237"><tspan
+         id="tspan112432"><tspan
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66235">
+           id="tspan112430">
 </tspan></tspan><tspan
          x="30.294922"
          y="-27.130813"
-         id="tspan66241"><tspan
+         id="tspan112436"><tspan
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66239">
+           id="tspan112434">
 </tspan></tspan><tspan
          x="30.294922"
          y="-21.746719"
-         id="tspan66245"><tspan
+         id="tspan112440"><tspan
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66243">
+           id="tspan112438">
 </tspan></tspan><tspan
          x="30.294922"
          y="-16.362625"
-         id="tspan66249"><tspan
+         id="tspan112444"><tspan
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66247">
+           id="tspan112442">
 </tspan></tspan></text>
     <text
        xml:space="preserve"
@@ -996,81 +1064,81 @@
        class="text"><tspan
          x="178.37695"
          y="538.65825"
-         id="tspan66253"><tspan
+         id="tspan112448"><tspan
            style="font-family:iosevka"
-           id="tspan66251">3/1e
+           id="tspan112446">3/1e
 </tspan></tspan><tspan
          x="178.37695"
          y="543.94994"
-         id="tspan66259"><tspan
+         id="tspan112454"><tspan
            style="font-family:iosevka"
-           id="tspan66255">3</tspan><tspan
+           id="tspan112450">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan66257">/1f
+           id="tspan112452">/1f
 </tspan></tspan><tspan
          x="178.37695"
          y="549.24162"
-         id="tspan66265"><tspan
+         id="tspan112460"><tspan
            style="font-family:iosevka"
-           id="tspan66261">3</tspan><tspan
+           id="tspan112456">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan66263">/20
+           id="tspan112458">/20
 </tspan></tspan><tspan
          x="178.37695"
          y="554.53331"
-         id="tspan66271"><tspan
+         id="tspan112466"><tspan
            style="font-family:iosevka"
-           id="tspan66267">3</tspan><tspan
+           id="tspan112462">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan66269">/21
+           id="tspan112464">/21
 </tspan></tspan><tspan
          x="178.37695"
          y="559.825"
-         id="tspan66277"><tspan
+         id="tspan112472"><tspan
            style="font-family:iosevka"
-           id="tspan66273">3</tspan><tspan
+           id="tspan112468">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan66275">/22
+           id="tspan112470">/22
 </tspan></tspan><tspan
          x="178.37695"
          y="565.11668"
-         id="tspan66283"><tspan
+         id="tspan112478"><tspan
            style="font-family:iosevka"
-           id="tspan66279">3</tspan><tspan
+           id="tspan112474">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan66281">/23
+           id="tspan112476">/23
 </tspan></tspan><tspan
          x="178.37695"
          y="570.40837"
-         id="tspan66289"><tspan
+         id="tspan112484"><tspan
            style="font-family:iosevka"
-           id="tspan66285">3</tspan><tspan
+           id="tspan112480">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan66287">/24
+           id="tspan112482">/24
 </tspan></tspan><tspan
          x="178.37695"
          y="575.70006"
-         id="tspan66295"><tspan
+         id="tspan112490"><tspan
            style="font-family:iosevka"
-           id="tspan66291">3</tspan><tspan
+           id="tspan112486">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan66293">/25
+           id="tspan112488">/25
 </tspan></tspan><tspan
          x="178.37695"
          y="580.99175"
-         id="tspan66301"><tspan
+         id="tspan112496"><tspan
            style="font-family:iosevka"
-           id="tspan66297">3</tspan><tspan
+           id="tspan112492">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan66299">/26
+           id="tspan112494">/26
 </tspan></tspan><tspan
          x="178.37695"
          y="586.28343"
-         id="tspan66307"><tspan
+         id="tspan112502"><tspan
            style="font-family:iosevka"
-           id="tspan66303">3</tspan><tspan
+           id="tspan112498">3</tspan><tspan
            style="font-family:iosevka"
-           id="tspan66305">/27</tspan></tspan></text>
+           id="tspan112500">/27</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text981-7-0-3-5-8-7-2-7-9-0-3-3-3-2-8-7-2-7-0-2-1"
@@ -1082,98 +1150,846 @@
        class="text"><tspan
          x="30.294922"
          y="-81.203079"
-         id="tspan66311"><tspan
-           dx="0 0 0 0 2.5866623 0 0 0 0 0 0 2.5866609 0 0 0 0 2.5866628 0 0 0 0 0 0 0 0 2.5866628 0 0 0 0 0 0 0 0 2.586659 0 0 2.586659"
+         id="tspan112506"><tspan
+           dx="0 0 0 0 3.3428469 0 0 0 0 0 0 3.3428483 0 0 0 0 3.3428464 0 0 0 0 0 0 0 0 3.3428502 0 0 0 0 0 0 0 0 3.3428464 0 0 3.3428464"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66309">The leaner laid cradled, captured by thought.
+           id="tspan112504">The leaner laid cradled, captured by thought.
 </tspan></tspan><tspan
          x="30.294922"
          y="-75.818985"
-         id="tspan66315"><tspan
-           dx="0 0 0 7.7606397 0 0 0 0 7.7606378 0 0 0 0 7.7606397 0 0 0 0 0 7.7606435 0 0 0 0 7.7606397"
+         id="tspan112510"><tspan
+           dx="0 0 0 8.6680622 0 0 0 0 8.6680622 0 0 0 0 8.6680641 0 0 0 0 0 8.6680641 0 0 0 0 8.6680565"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66313">He felt eons pass, felt vestigial,
+           id="tspan112508">He felt eons pass, felt vestigial,
 </tspan></tspan><tspan
          x="30.294922"
          y="-70.43489"
-         id="tspan66319"><tspan
-           dx="0 0 0 0 0 0 0 3.9977679 0 0 0 0 3.997767 0 0 0 0 0 0 3.9977689 0 0 3.9977689 0 0 0 0 0 3.9977689 0 0 0 0 3.9977612"
+         id="tspan112514"><tspan
+           dx="0 0 0 0 0 0 0 4.7539515 0 0 0 0 4.7539506 0 0 0 0 0 0 4.7539525 0 0 4.7539563 0 0 0 0 0 4.7539487 0 0 0 0 4.7539487"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66317">before now, before he found that unsought
+           id="tspan112512">before now, before he found that unsought
 </tspan></tspan><tspan
          x="30.294922"
          y="-65.050796"
-         id="tspan66323"><tspan
-           dx="0 0 0 0 0 0 0 0 0 5.4088712 0 0 0 0 5.4088712 0 0 0 0 0 5.4088712 0 0 0 5.4088712 0 5.4088712 0 0 5.4088712"
+         id="tspan112518"><tspan
+           dx="0 0 0 0 0 0 0 0 0 6.1650567 0 0 0 0 6.1650548 0 0 0 0 0 6.1650548 0 0 0 6.1650586 0 6.1650586 0 0 6.165051"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66321">external hand reach out - so trivial,
+           id="tspan112516">external hand reach out - so trivial,
 </tspan></tspan><tspan
          x="30.294922"
          y="-59.666702"
-         id="tspan66327"><tspan
-           dx="0 0 0 0 8.6073017 0 0 0 0 0 8.6073017 0 0 0 8.6072998 0 0 8.6073036 0 0 0 0 0 0 0 0 0 0 8.6073036"
+         id="tspan112522"><tspan
+           dx="0 0 0 0 9.5147247 0 0 0 0 0 9.5147247 0 0 0 9.5147247 0 0 9.5147209 0 0 0 0 0 0 0 0 0 0 9.5147209"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66325">but then, why so individual too?
+           id="tspan112520">but then, why so individual too?
 </tspan></tspan><tspan
          x="30.294922"
          y="-54.282608"
-         id="tspan66331"><tspan
-           dx="0 0 0 0 0 0.40286207 0 0 0 0 0 0.40286303 0 0 0 0 0.40286303 0 0 0 0 0 0 0 0.40285921 0 0 0 0 0 0.40286303 0 0 0 0 0 0 0 0 0 0 0.40285921 0 0 0.40286684"
+         id="tspan112526"><tspan
+           dx="0 0 0 0 0 1.0510201 0 0 0 0 0 1.0510201 0 0 0 0 1.0510182 0 0 0 0 0 0 0 1.0510221 0 0 0 0 0 1.0510221 0 0 0 0 0 0 0 0 0 0 1.0510221 0 0 1.0510221"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66329">He'd lived like others, roots entrenched in ground,
+           id="tspan112524">He'd lived like others, roots entrenched in ground,
 </tspan></tspan><tspan
          x="30.294922"
          y="-48.898513"
-         id="tspan66335"><tspan
-           dx="0 0 0 0 0 0 2.2338862 0 0 0 0 0 0 0 0 0 2.2338872 0 0 0 2.2338872 0 0 0 0 0 0 0 0 0 2.2338834 0 0 0 0 0 2.2338834 0 0 0 0 2.233891"
+         id="tspan112530"><tspan
+           dx="0 0 0 0 0 0 2.9900708 0 0 0 0 0 0 0 0 0 2.9900708 0 0 0 2.9900708 0 0 0 0 0 0 0 0 0 2.9900708 0 0 0 0 0 2.9900708 0 0 0 0 2.9900708"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66333">limbs stretched for solitude, alone they grew,
+           id="tspan112528">limbs stretched for solitude, alone they grew,
 </tspan></tspan><tspan
          x="30.294922"
          y="-43.514419"
-         id="tspan66339"><tspan
-           dx="0 0 0 0 0 0 0 0 0 0 6.0673146 0 0 0 6.0673146 0 0 6.0673146 0 0 0 0 0 0 6.0673184 0 0 0 0 0 0 6.0673184"
+         id="tspan112534"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 6.9747357 0 0 0 6.9747357 0 0 6.9747357 0 0 0 0 0 0 6.9747357 0 0 0 0 0 0 6.9747357"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66337">breathing CO2 as clouds danced around.
+           id="tspan112532">breathing CO2 as clouds danced around.
 </tspan></tspan><tspan
          x="30.294922"
          y="-38.130325"
-         id="tspan66343"><tspan
-           dx="0 0 0 0 0 0 0 7.5841422 0 0 0 0 0 0 7.5841413 0 0 0 0 0 0 0 7.5841413 0 0 0 0 0 7.5841413"
+         id="tspan112538"><tspan
+           dx="0 0 0 0 0 0 0 8.71842 0 0 0 0 0 0 8.7184181 0 0 0 0 0 0 0 8.7184181 0 0 0 0 0 8.7184181"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66341">Rivers dried, animals died, unnoticed.
+           id="tspan112536">Rivers dried, animals died, unnoticed.
 </tspan></tspan><tspan
          x="30.294922"
          y="-32.746231"
-         id="tspan66347"><tspan
-           dx="0 0 0 0 0.82278156 0 0 0 0 0 0.82278299 0 0 0 0 0 0 0.82278109 0 0 0 0 0 0 0 0.82278109 0 0 0 0 0 0 0 0 0.82278109 0 0 0 0 0 0.82278109"
+         id="tspan112542"><tspan
+           dx="0 0 0 0 1.5789671 0 0 0 0 0 1.5789666 0 0 0 0 0 0 1.5789685 0 0 0 0 0 0 0 1.5789647 0 0 0 0 0 0 0 0 1.5789609 0 0 0 0 0 1.5789609"
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66345">Now stray branch bridged untapped brain unfocused.
+           id="tspan112540">Now stray branch bridged untapped brain unfocused.
 </tspan></tspan><tspan
          x="30.294922"
          y="-27.362136"
-         id="tspan66351"><tspan
+         id="tspan112546"><tspan
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66349">
+           id="tspan112544">
 </tspan></tspan><tspan
          x="30.294922"
-         y="-26.654251"
-         id="tspan66355"><tspan
+         y="-21.978042"
+         id="tspan112550"><tspan
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66353">
+           id="tspan112548">
 </tspan></tspan><tspan
          x="30.294922"
-         y="-21.270156"
-         id="tspan66359"><tspan
+         y="-16.593948"
+         id="tspan112554"><tspan
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66357">
+           id="tspan112552">
 </tspan></tspan><tspan
          x="30.294922"
-         y="-15.886062"
-         id="tspan66363"><tspan
+         y="-11.209854"
+         id="tspan112558"><tspan
            style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
-           id="tspan66361">
+           id="tspan112556">
 </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text981-7-0-3-5-8-7-2-7-9-0-3-3-3-2-8-7-2-7-0-2-1-6"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect983-7-1-6-2-6-2-0-2-6-3-7-4-9-0-5-6-3-4-2-8-8-6);display:inline;fill:#1d1f21;fill-opacity:1;stroke:none"
+       x="0"
+       y="0"
+       transform="matrix(1.0011699,0,0,0.99027629,-26.28003,513.91955)"
+       inkscape:label="text"
+       class="text"><tspan
+         x="30.294922"
+         y="-81.203079"
+         id="tspan112562"><tspan
+           dx="0 0 0 0 0 0 0 9.7767487 0 0 0 0 0 0 9.7767487 0 0 0 0 0 0 0 0 0 0 0 9.7767448 0 0 9.7767525"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112560">Guided around transistors on motors,
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-75.818985"
+         id="tspan112566"><tspan
+           dx="0 0 0 0 0 0 0 5.8122802 0 0 0 0 0 5.8122792 0 0 0 0 0 0 0 5.812283 0 0 5.8122754 0 0 0 5.8122754 0 0 0 0 5.812283"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112564">Leaner leads Ironics on the fast track
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-70.43489"
+         id="tspan112570"><tspan
+           dx="0 0 0 0 0 0 0 0 7.1309285 0 0 0 7.1309266 0 0 0 0 0 0 0 0 0 0 0 0 7.1309323 0 0 0 0 0 0 0 0 7.1309323"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112568">through the distribution centre's sorters
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-65.050796"
+         id="tspan112574"><tspan
+           dx="0 0 0 0 0 1.7133889 0 0 0 0 1.7133889 0 0 0 0 1.713387 0 0 0 0 0 1.713387 0 0 0 0 1.713387 0 0 0 0 0 1.7133908 0 0 0 0 0 1.7133908 0 0 0 1.7133908"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112572">(few jobs left other than walks there and back).
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-59.666702"
+         id="tspan112578"><tspan
+           dx="0 0 0 0 0 2.9341168 0 0 0 0 2.9341168 0 2.9341168 0 0 0 0 2.9341168 0 0 0 0 0 2.9341168 0 0 2.9341168 0 0 0 2.9341168 0 0 0 0 2.9341168 0 2.9341168"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112576">&quot;I'm told I must guard to get what I need,
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-54.282608"
+         id="tspan112582"><tspan
+           dx="0 0 0 0 0 3.5654635 0 0 0 0 3.5654626 0 3.5654626 0 0 0 0 0 0 3.5654645 0 0 0 0 0 0 0 3.5654645 0 0 3.5654645 0 0 3.5654645 0 0 0 0 3.5654645"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112580">When what I need's guarded by me from me.
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-48.898513"
+         id="tspan112586"><tspan
+           dx="0 0 0 0 5.8122807 0 0 0 5.8122811 0 0 0 0 5.812283 0 0 0 5.8122792 0 0 0 0 0 0 0 5.812283 0 0 0 0 0 5.812283"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112584">Why not hire one without need? Indeed,
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-43.514419"
+         id="tspan112590"><tspan
+           dx="0 0 0 0 1.4488068 0 0 0 0 0 0 0 0 0 1.4488053 0 0 0 0 0 1.4488072 0 0 0 0 0 1.4488072 0 0 0 0 1.4488111 0 0 0 0 1.4488034 0 0 0 1.4488111 0 0 0 1.4488111"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112588">the fulfilled don't guard what they get for free.
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-38.130325"
+         id="tspan112594"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 4.8580785 0 0 0 0 0 4.8580785 0 0 0 0 0 0 0 4.8580785 0 0 0 0 0 0 0 4.8580823 0 0 0 4.8580823"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112592">Pharaoh's can't balance needing the needful
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-32.746231"
+         id="tspan112598"><tspan
+           dx="0 0 0 0 2.9900713 0 0 0 0 2.9900727 0 0 0 0 0 2.9900708 0 0 0 0 0 0 0 0 0 2.990067 0 0 2.9900708 0 0 0 0 0 0 0 0 2.9900708"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112596">And such scant semblance of resource absence.&quot;
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-27.362136"
+         id="tspan112602"><tspan
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112600">
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-21.978042"
+         id="tspan112606"><tspan
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112604">
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-16.593948"
+         id="tspan112610"><tspan
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112608">
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-11.209854"
+         id="tspan112614"><tspan
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112612">
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text3235-6-6-05-5-5-8-2-0-9-3-9-8-5-8-0-8-3-2-0-8-9-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;-inkscape-font-specification:iosevka;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3237-7-5-6-1-2-4-4-5-8-2-2-9-2-5-0-6-2-1-4-1-9-2);fill:#1d1f21;fill-opacity:1;stroke:none"
+       transform="translate(-188.42961,-105.17208)"
+       inkscape:label="nl2"
+       class="text"><tspan
+         x="178.37695"
+         y="538.65825"
+         id="tspan112618"><tspan
+           style="font-family:iosevka"
+           id="tspan112616">3/28
+</tspan></tspan><tspan
+         x="178.37695"
+         y="543.94994"
+         id="tspan112624"><tspan
+           style="font-family:iosevka"
+           id="tspan112620">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112622">/29
+</tspan></tspan><tspan
+         x="178.37695"
+         y="549.24162"
+         id="tspan112630"><tspan
+           style="font-family:iosevka"
+           id="tspan112626">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112628">/2a
+</tspan></tspan><tspan
+         x="178.37695"
+         y="554.53331"
+         id="tspan112636"><tspan
+           style="font-family:iosevka"
+           id="tspan112632">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112634">/2b
+</tspan></tspan><tspan
+         x="178.37695"
+         y="559.825"
+         id="tspan112642"><tspan
+           style="font-family:iosevka"
+           id="tspan112638">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112640">/2c
+</tspan></tspan><tspan
+         x="178.37695"
+         y="565.11668"
+         id="tspan112648"><tspan
+           style="font-family:iosevka"
+           id="tspan112644">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112646">/2d
+</tspan></tspan><tspan
+         x="178.37695"
+         y="570.40837"
+         id="tspan112654"><tspan
+           style="font-family:iosevka"
+           id="tspan112650">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112652">/2e
+</tspan></tspan><tspan
+         x="178.37695"
+         y="575.70006"
+         id="tspan112660"><tspan
+           style="font-family:iosevka"
+           id="tspan112656">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112658">/2f
+</tspan></tspan><tspan
+         x="178.37695"
+         y="580.99175"
+         id="tspan112666"><tspan
+           style="font-family:iosevka"
+           id="tspan112662">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112664">/30
+</tspan></tspan><tspan
+         x="178.37695"
+         y="586.28343"
+         id="tspan112672"><tspan
+           style="font-family:iosevka"
+           id="tspan112668">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112670">/31</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text981-7-0-3-5-8-7-2-7-9-0-3-3-3-2-8-7-2-7-0-2-1-6-9"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect983-7-1-6-2-6-2-0-2-6-3-7-4-9-0-5-6-3-4-2-8-8-6-4);display:inline;fill:#1d1f21;fill-opacity:1;stroke:none"
+       x="0"
+       y="0"
+       transform="matrix(1.0011699,0,0,0.99027629,-26.189868,593.98481)"
+       inkscape:label="text"
+       class="text"><tspan
+         x="30.294922"
+         y="-81.203079"
+         id="tspan112676"><tspan
+           dx="0 0 0 0 0 0 0 7.6600928 0 0 0 0 0 7.6600919 0 0 0 0 0 0 7.6600881 0 0 0 0 0 0 0 0 0 0 7.6600919"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112674">Leaner cites &quot;waste long-lived radiation
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-75.818985"
+         id="tspan112680"><tspan
+           dx="0 0 0 0 0 0 0 0 0 16.563427 0 0 16.563427 0 0 0 0 0 0 0 16.563427"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112678">decaying in storage indefinite&quot;
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-70.43489"
+         id="tspan112684"><tspan
+           dx="0 0 8.71842 0 0 0 0 0 0 0 8.71842 0 0 0 0 0 0 0 0 0 8.7184181 0 0 0 0 0 0 8.7184181"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112682">- ram-man registers traces signalling,
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-65.050796"
+         id="tspan112688"><tspan
+           dx="0 0 0 0 0 0 0 0 0 3.6956239 0 0 0 0 0 0 0 3.695622 0 0 0 0 3.6956258 0 0 0 0 0 0 0 3.695622 0 0 0 0 3.695622 0 0 0 3.6956296"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112686">spaceman follows him, forking from the rest.
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-59.666702"
+         id="tspan112692"><tspan
+           dx="0 0 0 0 0 0 10.305912 0 0 0 0 0 0 0 0 0 0 10.305912 0 0 0 0 0 0 10.305912 0 0 0 0 10.305912"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112690">&quot;Data collator,&quot; leaner also cites,
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-54.282608"
+         id="tspan112696"><tspan
+           dx="0 0 0 0 0 0 11.364241 0 0 0 0 0 0 11.364243 0 0 11.364243 0 0 0 0 0 0 0 0 0 0 0 11.364246"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112694">&quot;info caught in inescapable pull,
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-48.898513"
+         id="tspan112700"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 8.24473 0 0 8.2447281 0 0 0 0 0 8.2447319 0 0 8.2447319 0 0 8.2447319"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112698">stringified, to leash us to D.T.V.&quot;
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-43.514419"
+         id="tspan112704"><tspan
+           dx="0 0 4.679575 0 0 0 0 0 0 4.6795754 0 0 0 4.6795735 0 0 0 0 4.6795774 0 0 0 0 0 4.6795774 0 0 0 0 4.6795697 0 0 0 4.6795697"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112702">- rabbit and deer split with the wires.
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-38.130325"
+         id="tspan112708"><tspan
+           dx="0 0 0 0 0 5.7047429 0 0 0 5.7047429 0 0 0 0 5.7047429 0 0 0 0 0 0 0 0 0 0 0 5.7047391 0 0 0 0 0 0 0 0 0 5.7047467"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112706">&quot;All for this centralised trickling out.&quot;
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-32.746231"
+         id="tspan112712"><tspan
+           dx="0 0 0 0 4.3771954 0 0 0 4.3771958 0 0 0 0 0 0 0 4.3771977 0 0 0 0 0 0 4.3771939 0 0 4.3771939 0 0 0 0 4.3771939 0 0 0 4.3772016"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112710">Dog and peacock remain to keep the path.
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-27.362136"
+         id="tspan112716"><tspan
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112714">
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-21.978042"
+         id="tspan112720"><tspan
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112718">
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-16.593948"
+         id="tspan112724"><tspan
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112722">
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-11.209854"
+         id="tspan112728"><tspan
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112726">
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text3235-6-6-05-5-5-8-2-0-9-3-9-8-5-8-0-8-3-2-0-8-9-2-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;-inkscape-font-specification:iosevka;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3237-7-5-6-1-2-4-4-5-8-2-2-9-2-5-0-6-2-1-4-1-9-2-4);fill:#1d1f21;fill-opacity:1;stroke:none"
+       transform="translate(-188.33944,-25.106818)"
+       inkscape:label="nl2"
+       class="text"><tspan
+         x="178.37695"
+         y="538.65825"
+         id="tspan112732"><tspan
+           style="font-family:iosevka"
+           id="tspan112730">3/32
+</tspan></tspan><tspan
+         x="178.37695"
+         y="543.94994"
+         id="tspan112738"><tspan
+           style="font-family:iosevka"
+           id="tspan112734">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112736">/33
+</tspan></tspan><tspan
+         x="178.37695"
+         y="549.24162"
+         id="tspan112744"><tspan
+           style="font-family:iosevka"
+           id="tspan112740">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112742">/34
+</tspan></tspan><tspan
+         x="178.37695"
+         y="554.53331"
+         id="tspan112750"><tspan
+           style="font-family:iosevka"
+           id="tspan112746">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112748">/35
+</tspan></tspan><tspan
+         x="178.37695"
+         y="559.825"
+         id="tspan112756"><tspan
+           style="font-family:iosevka"
+           id="tspan112752">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112754">/36
+</tspan></tspan><tspan
+         x="178.37695"
+         y="565.11668"
+         id="tspan112762"><tspan
+           style="font-family:iosevka"
+           id="tspan112758">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112760">/37
+</tspan></tspan><tspan
+         x="178.37695"
+         y="570.40837"
+         id="tspan112768"><tspan
+           style="font-family:iosevka"
+           id="tspan112764">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112766">/38
+</tspan></tspan><tspan
+         x="178.37695"
+         y="575.70006"
+         id="tspan112774"><tspan
+           style="font-family:iosevka"
+           id="tspan112770">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112772">/39
+</tspan></tspan><tspan
+         x="178.37695"
+         y="580.99175"
+         id="tspan112780"><tspan
+           style="font-family:iosevka"
+           id="tspan112776">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112778">/3a
+</tspan></tspan><tspan
+         x="178.37695"
+         y="586.28343"
+         id="tspan112786"><tspan
+           style="font-family:iosevka"
+           id="tspan112782">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112784">/3b</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text981-7-0-3-5-8-7-2-7-9-0-3-3-3-2-8-7-2-7-0-2-1-6-9-3"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect983-7-1-6-2-6-2-0-2-6-3-7-4-9-0-5-6-3-4-2-8-8-6-4-3);display:inline;fill:#1d1f21;fill-opacity:1;stroke:none"
+       x="0"
+       y="0"
+       transform="matrix(1.0011699,0,0,0.99027629,-26.164294,663.70769)"
+       inkscape:label="text"
+       class="text"><tspan
+         x="30.294922"
+         y="-81.203079"
+         id="tspan112790"><tspan
+           dx="0 0 0 0 0 0 0 4.401176 0 0 0 4.401175 0 0 0 0 0 0 0 4.4011769 0 0 4.4011731 0 0 0 0 0 0 4.4011731 0 0 0 0 0 0 0 4.4011807"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112788">Access was blocked to access control room.
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-75.818985"
+         id="tspan112794"><tspan
+           dx="0 0 0 0 0 0 2.9900708 0 0 2.9900727 0 0 0 0 0 0 0 0 2.9900708 0 0 0 0 0 0 2.990067 0 0 0 0 0 0 0 0 0 2.9900708 0 0 2.9900708"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112792">Posed as statue's shadow (Collapse in bronze),
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-70.43489"
+         id="tspan112798"><tspan
+           dx="0 0 0 0 0 0 0 13.035666 0 0 0 0 0 0 0 0 0 13.035667 0 0 0 0 0 0 0 13.035664"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112796">Leaner pre-empts assumed accusation,
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-65.050796"
+         id="tspan112802"><tspan
+           dx="0 0 0 0 0 0 0.65506029 0 0 0 0 0 0.65506029 0 0 0 0 0 0.65506411 0 0 0 0.65506029 0 0 0 0 0.65506029 0 0 0 0 0 0 0 0 0.65506411 0 0 0 0 0 0.65505648 0 0 0 0 0.65506411"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112800">&quot;Most would think the sole employed would know this:
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-59.666702"
+         id="tspan112806"><tspan
+           dx="0 0 0 0 0 0 0 0 1.958159 0 0 0 0 0 0 0 1.9581571 0 0 0 0 0 0 0 0 1.9581609 0 0 0 0 1.9581571 0 0 0 1.9581571 0 0 0 0 1.9581571 0 0 1.9581571"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112804">cloaked figures guarding what was mine to guard.
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-54.282608"
+         id="tspan112810"><tspan
+           dx="0 0 0 0 0 1.1590457 0 0 0 1.1590447 0 0 0 1.1590466 0 0 1.1590428 0 0 0 0 0 1.1590466 0 0 0 0 1.1590428 0 0 0 1.1590466 0 0 0 0 1.1590466 0 0 0 0 0 0 1.1590466 0 0 0 0 1.1590466"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112808">This was not my plan, it's not what you're owed -
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-48.898513"
+         id="tspan112814"><tspan
+           dx="0 0 0 0 4.0946283 0 0 0 0 4.0946298 0 0 0 0 4.0946279 0 0 0 0 0 4.0946279 0 4.0946279 0 0 0 0 0 4.0946317 0 0 4.094624 0 0 4.0946317"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112812">I'd hope it's clear I don't do my job&quot;.
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-43.514419"
+         id="tspan112818"><tspan
+           dx="0 0 0 0 0 0 0 0 0 5.7047429 0 0 5.704741 0 0 0 0 0 0 5.7047391 0 0 0 0 0 0 0 0 0 0 0 5.7047391 0 0 0 5.7047391"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112816">&quot;Nothing is owed,&quot; conciliates the snake,
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-38.130325"
+         id="tspan112822"><tspan
+           dx="0 0 0 0 4.679575 0 0 0 4.6795754 0 0 0 4.6795735 0 0 0 4.6795735 0 0 0 0 4.6795697 0 0 4.6795774 0 0 0 0 0 0 0 0 0 4.6795774"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112820">&quot;We are not the kind to recognise debt.
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-32.746231"
+         id="tspan112826"><tspan
+           dx="0 0 0 0 0 5.8122811 0 0 0 0 0 0 0 5.8122792 0 0 5.8122792 0 0 0 0 0 5.8122754 0 0 0 0 5.812283 0 0 5.8122754"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112824">Your purpose is ours, even to submit.&quot;
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-27.362136"
+         id="tspan112830"><tspan
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112828">
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-21.978042"
+         id="tspan112834"><tspan
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112832">
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-16.593948"
+         id="tspan112838"><tspan
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112836">
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-11.209854"
+         id="tspan112842"><tspan
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112840">
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text3235-6-6-05-5-5-8-2-0-9-3-9-8-5-8-0-8-3-2-0-8-9-2-8-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;-inkscape-font-specification:iosevka;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3237-7-5-6-1-2-4-4-5-8-2-2-9-2-5-0-6-2-1-4-1-9-2-4-7);fill:#1d1f21;fill-opacity:1;stroke:none"
+       transform="translate(-188.31387,44.61606)"
+       inkscape:label="nl2"
+       class="text"><tspan
+         x="178.37695"
+         y="538.65825"
+         id="tspan112846"><tspan
+           style="font-family:iosevka"
+           id="tspan112844">3/3c
+</tspan></tspan><tspan
+         x="178.37695"
+         y="543.94994"
+         id="tspan112852"><tspan
+           style="font-family:iosevka"
+           id="tspan112848">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112850">/3d
+</tspan></tspan><tspan
+         x="178.37695"
+         y="549.24162"
+         id="tspan112858"><tspan
+           style="font-family:iosevka"
+           id="tspan112854">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112856">/3e
+</tspan></tspan><tspan
+         x="178.37695"
+         y="554.53331"
+         id="tspan112864"><tspan
+           style="font-family:iosevka"
+           id="tspan112860">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112862">/3f
+</tspan></tspan><tspan
+         x="178.37695"
+         y="559.825"
+         id="tspan112870"><tspan
+           style="font-family:iosevka"
+           id="tspan112866">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112868">/40
+</tspan></tspan><tspan
+         x="178.37695"
+         y="565.11668"
+         id="tspan112876"><tspan
+           style="font-family:iosevka"
+           id="tspan112872">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112874">/41
+</tspan></tspan><tspan
+         x="178.37695"
+         y="570.40837"
+         id="tspan112882"><tspan
+           style="font-family:iosevka"
+           id="tspan112878">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112880">/42
+</tspan></tspan><tspan
+         x="178.37695"
+         y="575.70006"
+         id="tspan112888"><tspan
+           style="font-family:iosevka"
+           id="tspan112884">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112886">/43
+</tspan></tspan><tspan
+         x="178.37695"
+         y="580.99175"
+         id="tspan112894"><tspan
+           style="font-family:iosevka"
+           id="tspan112890">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112892">/44
+</tspan></tspan><tspan
+         x="178.37695"
+         y="586.28343"
+         id="tspan112900"><tspan
+           style="font-family:iosevka"
+           id="tspan112896">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112898">/45</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text981-7-0-3-5-8-7-2-7-9-0-3-3-3-2-8-7-2-7-0-2-1-6-9-3-4"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect983-7-1-6-2-6-2-0-2-6-3-7-4-9-0-5-6-3-4-2-8-8-6-4-3-1);display:inline;fill:#1d1f21;fill-opacity:1;stroke:none"
+       x="0"
+       y="0"
+       transform="matrix(1.0011699,0,0,0.99027629,134.54636,743.14408)"
+       inkscape:label="text"
+       class="text"><tspan
+         x="30.294922"
+         y="-81.203079"
+         id="tspan112904"><tspan
+           dx="0 0 0 0 6.4938531 0 6.4938512 0 0 0 0 0 0 0 0 0 6.4938512 0 6.493855 0 0 0 0 6.493855 0 0 6.493855 0 0 0 0 6.493855"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112902">For a hedonist, a call to give up
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-75.818985"
+         id="tspan112908"><tspan
+           dx="0 0 0 9.0913925 0 0 0 0 0 0 0 0 0 0 0 0 9.0913925 0 9.0913925 0 0 0 0 9.0913887 0 0 9.0913963"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112906">is consequently a call to action.
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-70.43489"
+         id="tspan112912"><tspan
+           dx="0 0 0 0 0 3.6956239 0 0 3.6956239 0 0 0 0 0 0 0 0 3.695622 0 0 0 0 0 0 3.6956258 0 0 0 0 0 0 0 3.695622 0 0 3.695622"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112910">Like ox unfound, leaner charged to distract,
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-65.050796"
+         id="tspan112916"><tspan
+           dx="0 0 0 0 0 0 0 0 1.5789666 0 0 0 0 1.5789666 0 0 0 0 0 0 0 1.5789647 0 0 0 0 0 0 0 0 1.5789609 0 0 0 0 0 0 0 0 0 1.5789685 0 0 0 1.5789685"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112914">cloaked flit around, chasing, hallway's end bound.
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-59.666702"
+         id="tspan112920"><tspan
+           dx="0 0 0 0 0 0 0 4.4347491 0 0 4.4347482 0 0 0 0 0 0 0 0 0 0 0 4.4347463 0 0 0 0 0 4.4347501 0 0 0 0 0 0 4.4347501"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112918">Caught in conditioned wind, cloak, abandoned
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-54.282608"
+         id="tspan112924"><tspan
+           dx="0 0 0 0 3.8300457 0 0 0 0 3.8300462 0 0 0 0 0 0 3.8300481 0 0 3.8300481 0 0 0 3.8300443 0 0 3.8300443 0 0 0 0 3.8300443 0 0 0 3.8300519"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112922">was fast donned by Owl as Octo and Snake
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-48.898513"
+         id="tspan112928"><tspan
+           dx="0 0 0 0 0 0 0 2.9900718 0 0 0 0 0 2.9900727 0 0 0 0 0 0 0 0 2.9900708 0 0 2.990067 0 0 0 0 0 0 0 2.9900784 0 0 0 0 0 0 2.9900708"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112926">passed clear entrance to further groups goals.
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-43.514419"
+         id="tspan112932"><tspan
+           dx="0 0 0 0 2.6372948 0 0 0 0 0 0 0 2.6372952 0 0 0 0 0 0 0 2.6372952 0 0 0 0 0 0 0 2.6372952 0 0 0 2.6372952 0 0 0 0 0 0 0 2.6372952"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112930">Ram follows signals through new storage breach.
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-38.130325"
+         id="tspan112936"><tspan
+           dx="0 0 0 0 0 0 0 4.8580794 0 0 0 0 0 4.8580785 0 0 0 0 0 0 4.8580823 0 0 0 0 0 0 0 0 4.8580747 0 0 0 0 0 0 0 4.8580747"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112934">Rabbit brute forces weakened routing rules.
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-32.746231"
+         id="tspan112940"><tspan
+           dx="0 0 0 0 4.8580799 0 0 0 0 0 4.8580785 0 0 0 0 0 4.8580785 0 0 4.8580785 0 0 0 0 0 0 0 0 0 0 0 0 4.8580823"
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112938">Dog preps noise on Determinists approach...
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-27.362136"
+         id="tspan112944"><tspan
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112942">
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-21.978042"
+         id="tspan112948"><tspan
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112946">
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-16.593948"
+         id="tspan112952"><tspan
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112950">
+</tspan></tspan><tspan
+         x="30.294922"
+         y="-11.209854"
+         id="tspan112956"><tspan
+           style="font-family:Iosevka;-inkscape-font-specification:Iosevka;text-align:justify"
+           id="tspan112954">
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text3235-6-6-05-5-5-8-2-0-9-3-9-8-5-8-0-8-3-2-0-8-9-2-8-4-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;-inkscape-font-specification:iosevka;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3237-7-5-6-1-2-4-4-5-8-2-2-9-2-5-0-6-2-1-4-1-9-2-4-7-0);fill:#1d1f21;fill-opacity:1;stroke:none"
+       transform="translate(-27.603224,124.05245)"
+       inkscape:label="nl2"
+       class="text"><tspan
+         x="178.37695"
+         y="538.65825"
+         id="tspan112960"><tspan
+           style="font-family:iosevka"
+           id="tspan112958">3/46
+</tspan></tspan><tspan
+         x="178.37695"
+         y="543.94994"
+         id="tspan112966"><tspan
+           style="font-family:iosevka"
+           id="tspan112962">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112964">/47
+</tspan></tspan><tspan
+         x="178.37695"
+         y="549.24162"
+         id="tspan112972"><tspan
+           style="font-family:iosevka"
+           id="tspan112968">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112970">/48
+</tspan></tspan><tspan
+         x="178.37695"
+         y="554.53331"
+         id="tspan112978"><tspan
+           style="font-family:iosevka"
+           id="tspan112974">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112976">/49
+</tspan></tspan><tspan
+         x="178.37695"
+         y="559.825"
+         id="tspan112984"><tspan
+           style="font-family:iosevka"
+           id="tspan112980">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112982">/4a
+</tspan></tspan><tspan
+         x="178.37695"
+         y="565.11668"
+         id="tspan112990"><tspan
+           style="font-family:iosevka"
+           id="tspan112986">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112988">/4b
+</tspan></tspan><tspan
+         x="178.37695"
+         y="570.40837"
+         id="tspan112996"><tspan
+           style="font-family:iosevka"
+           id="tspan112992">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan112994">/4c
+</tspan></tspan><tspan
+         x="178.37695"
+         y="575.70006"
+         id="tspan113002"><tspan
+           style="font-family:iosevka"
+           id="tspan112998">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan113000">/4d
+</tspan></tspan><tspan
+         x="178.37695"
+         y="580.99175"
+         id="tspan113008"><tspan
+           style="font-family:iosevka"
+           id="tspan113004">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan113006">/4e
+</tspan></tspan><tspan
+         x="178.37695"
+         y="586.28343"
+         id="tspan113014"><tspan
+           style="font-family:iosevka"
+           id="tspan113010">3</tspan><tspan
+           style="font-family:iosevka"
+           id="tspan113012">/4f</tspan></tspan></text>
     <g
        inkscape:label="Layer 1"
        id="layer1-7"
@@ -1254,8 +2070,8 @@
        height="150.62306"
        xlink:href="3/temporal-cascade-hands.svg"
        id="image12446"
-       x="631.18146"
-       y="-130.4547"
+       x="1038.6412"
+       y="-127.27972"
        transform="rotate(90)" />
     <image
        preserveAspectRatio="none"
@@ -1264,8 +2080,8 @@
        height="109.51554"
        xlink:href="3/temporal-cascade-owl.svg"
        id="image12698"
-       x="169.2636"
-       y="652.71503" />
+       x="166.08864"
+       y="1060.1746" />
     <image
        preserveAspectRatio="none"
        inkscape:svg-dpi="96"
@@ -1275,5 +2091,23 @@
        id="image54890"
        x="-23.666504"
        y="92.302208" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="121.40009"
+       height="207.95192"
+       xlink:href="3/owl-disguised.svg"
+       id="image65741"
+       x="-11.973513"
+       y="640.06439" />
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="172.62263"
+       height="118.08698"
+       xlink:href="3/spaceman-and-the-energy-box.svg"
+       id="image102099"
+       x="-23.706219"
+       y="882.07483" />
   </g>
 </svg>
