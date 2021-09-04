@@ -1,7 +1,28 @@
+body {
+    background: #1d1f21;
+    margin: 0;
+}
+
+a {
+    color: #e0e0e0;
+    font-family: 'IOSEVKA';
+}
+
+a:hover {
+    color: #969896;
+}
+
 img {
+    width: 100%;
     vertical-align: bottom;
 }
 
 object {
     vertical-align: bottom;
+}
+
+div {
+    width: 25%;
+    text-align: center;
+    float: left;
 }
